@@ -1,0 +1,14 @@
+#!/bin/bash -l
+
+#PBS -u n8485267@lyra.qut.edu.au
+#PBS -q lyra
+#PBS -m n
+#PBS -r n
+#PBS -l walltime=47:59:00
+#PBS -l mem=512mb
+
+cd $PBS_O_WORKDIR
+
+java -jar ServiceIntegrationAccelerator.jar
+
+

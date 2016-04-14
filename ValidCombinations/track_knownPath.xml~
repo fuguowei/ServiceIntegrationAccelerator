@@ -1,0 +1,41 @@
+<TrackRequest>
+ <WebAuthenticationDetail>
+    <UserCredential>
+       <Key>Input Your Information</Key>
+       <Password>Input Your Information</Password>
+    </UserCredential>
+ </WebAuthenticationDetail>
+ <ClientDetail>
+    <AccountNumber>Input Your Information</AccountNumber>
+    <MeterNumber>Input Your Information</MeterNumber>
+    <Localization>
+       <LanguageCode>EN</LanguageCode>
+       <LocaleCode>US</LocaleCode>
+    </Localization>
+ </ClientDetail>
+ <TransactionDetail>
+    <CustomerTransactionId>Track By Number_v9</CustomerTransactionId>
+</TransactionDetail>
+ <Version>
+    <ServiceId>trck</ServiceId>
+    <Major>9</Major>
+    <Intermediate>1</Intermediate>
+    <Minor>0</Minor>
+ </Version>
+ <SelectionDetails>
+    <CarrierCode>FDXE</CarrierCode>
+    <PackageIdentifier>
+       <Type>TRACKING_NUMBER_OR_DOORTAG</Type>
+       <Value>Input Your Information</Value>
+    </PackageIdentifier>
+    <ShipmentAccountNumber> Input Your Information</ShipmentAccountNumber>
+    <SecureSpodAccount>Input Your Information</SecureSpodAccount>
+    <Destination>
+       <StreetLines>Input Your Information</StreetLines>
+       <City>Texas</City>
+       <StateOrProvinceCode>TX</StateOrProvinceCode>
+       <PostalCode>73301</PostalCode>
+       <CountryCode>US</CountryCode>
+    </Destination>
+ </SelectionDetails>
+</TrackRequest>

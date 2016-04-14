@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ServiceIntegerationAccelerator>
+	<SystemVariables>
+		<Heights>10,15,20,25,30</Heights>
+		<MaxNumberOfParameters>50</MaxNumberOfParameters>
+		<TotalNumberofAcceptablePaths>20</TotalNumberofAcceptablePaths>
+		<NormalformTransitionKernelVarianceForGroup>0.125</NormalformTransitionKernelVarianceForGroup>
+		<NormalformTransitionKernelVarianceWithinGroup>0.125</NormalformTransitionKernelVarianceWithinGroup>
+		<UniformTransitionKernalVarianceForGroup>0.5</UniformTransitionKernalVarianceForGroup>
+		<UniformTransitionKernalVarianceWithinGroup>0.0</UniformTransitionKernalVarianceWithinGroup>
+		<TotalnubmerOfAttempts>1000000000</TotalnubmerOfAttempts>
+		<WeightMinToll>0.000001</WeightMinToll>
+		<MarkovBlanketThreshHold>0.7</MarkovBlanketThreshHold>
+		<GroupCountingFactor>500</GroupCountingFactor>
+		<InitialGroupProbabilityFactor>1</InitialGroupProbabilityFactor>
+		<InitialParameterProbabilityFactor>1</InitialParameterProbabilityFactor>
+		<GroupGap>5</GroupGap>
+		<Debug>TRUE</Debug>
+	</SystemVariables>
+</ServiceIntegerationAccelerator>

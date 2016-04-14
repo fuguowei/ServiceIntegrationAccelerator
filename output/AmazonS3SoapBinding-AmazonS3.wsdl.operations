@@ -1,0 +1,16 @@
+CopyObject
+CreateBucket
+DeleteBucket
+DeleteObject
+GetBucketAccessControlPolicy
+GetBucketLoggingStatus
+GetObject
+GetObjectAccessControlPolicy
+GetObjectExtended
+ListAllMyBuckets
+ListBucket
+PutObject
+PutObjectInline
+SetBucketAccessControlPolicy
+SetBucketLoggingStatus
+SetObjectAccessControlPolicy

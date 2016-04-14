@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<company>
+	<track id="1001">
+		<CreateOpenShipmentRequest>Openshiporder</CreateOpenShipmentRequest>
+		<RequestedShipment>Shipment</RequestedShipment>
+	</track>
+</company>

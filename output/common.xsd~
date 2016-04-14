@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.qut.edu.au/2015/XMLSchema"
+targetNamespace="http://www.w3schools.com"
+xmlns="http://www.w3schools.com"
+elementFormDefault="qualified">
+
+<xs:element name="Shipment">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="ShipTimestamp" type="xs:string"/>
+      <xs:element name="DropoffType" type="xs:string"/>
+      <xs:element name="ServiceType" type="xs:string"/>
+      <xs:element name="PackagingType" type="xs:string"/>
+      <xs:element name="Contact" type="xs:string"/>
+      <xs:element name="Address" type="xs:string"/>
+      <xs:element name="Contact" type="xs:string"/>
+      <xs:element name="Address" type="xs:string"/>
+      <xs:element name="ShippingChargesPayment" type="xs:string"/>
+      <xs:element name="LabelSpecification" type="xs:string"/>
+      <xs:element name="RateRequestTypes" type="xs:string"/>
+      <xs:element name="PackageCount" type="xs:string"/>
+      <xs:element name="RequestedPackageLineItems" type="xs:string"/>
+      <xs:element name="Weight" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="groundHomeDeliveryShipment">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="TotalWeight" type="xs:string"/>
+      <xs:element name="Shipper" type="xs:string"/>
+      <xs:element name="Recipient" type="xs:string"/>
+      <xs:element name="SpecialServicesRequested" type="xs:string"/>
+      <xs:element name="HomeDeliveryPremiumDetail" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+      <xs:element name="ContentRecords" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="groundHomeDeliveryShipmentAppointment">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="TotalWeight" type="xs:string"/>
+      <xs:element name="Shipper" type="xs:string"/>
+      <xs:element name="Recipient" type="xs:string"/>
+      <xs:element name="SpecialServicesRequested" type="xs:string"/>
+      <xs:element name="HomeDeliveryPremiumDetail" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+      <xs:element name="ContentRecords" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="groundInternational">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="DutiesPayment" type="xs:string"/>
+      <xs:element name="CustomsClearanceDetail" type="xs:string"/>
+      <xs:element name="CustomsValue" type="xs:string"/>
+      <xs:element name="Commodities" type="xs:string"/>
+      <xs:element name="ExportDetail" type="xs:string"/>
+      <xs:element name="InsuredValue" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+      <xs:element name="CustomerReferences" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="GroundInternationalMPS">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="DutiesPayment" type="xs:string"/>
+      <xs:element name="CustomsClearanceDetail" type="xs:string"/>
+      <xs:element name="CustomsValue" type="xs:string"/>
+      <xs:element name="Commodities" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+      <xs:element name="CustomerReferences" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="IntlReturnShipment">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="DutiesPayment" type="xs:string"/>
+      <xs:element name="CustomsClearanceDetail" type="xs:string"/>
+      <xs:element name="CustomsValue" type="xs:string"/>
+      <xs:element name="Commodities" type="xs:string"/>
+      <xs:element name="ExportDetail" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="IntraIndiaCOD">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="SpecialServicesRequested" type="xs:string"/>
+      <xs:element name="CodDetail" type="xs:string"/>
+      <xs:element name="DutiesPayment" type="xs:string"/>
+      <xs:element name="CustomsClearanceDetail" type="xs:string"/>
+      <xs:element name="CustomsValue" type="xs:string"/>
+      <xs:element name="CommercialInvoice" type="xs:string"/>
+      <xs:element name="Commodities" type="xs:string"/>
+      <xs:element name="InsuredValue" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+      <xs:element name="CustomerReferences" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="IntraMXExpSaver">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="PreferredCurrency" type="xs:string"/>
+      <xs:element name="SpecialServicesRequested" type="xs:string"/>
+      <xs:element name="CustomsClearanceDetail" type="xs:string"/>
+      <xs:element name="CustomsValue" type="xs:string"/>
+      <xs:element name="CommercialInvoice" type="xs:string"/>
+      <xs:element name="Commodities" type="xs:string"/>
+      <xs:element name="ExportDetail" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+      <xs:element name="CustomerReferences" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="IntraUAESOShipment">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="PreferredCurrency" type="xs:string"/>
+      <xs:element name="CustomsClearanceDetail" type="xs:string"/>
+      <xs:element name="CustomsValue" type="xs:string"/>
+      <xs:element name="CommercialInvoice" type="xs:string"/>
+      <xs:element name="Commodities" type="xs:string"/>
+      <xs:element name="ExportDetail" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+      <xs:element name="CustomerReferences" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="PriorityAlertLTLFreightShipment">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="Shipper" type="xs:string"/>
+      <xs:element name="AlternateBilling" type="xs:string"/>
+      <xs:element name="PrintedReferences" type="xs:string"/>
+      <xs:element name="FreightShipmentDetail" type="xs:string"/>
+      <xs:element name="DeclaredValuePerUnit" type="xs:string"/>
+      <xs:element name="PalletWeight" type="xs:string"/>
+      <xs:element name="ShipmentDimensions" type="xs:string"/>
+      <xs:element name="LineItems" type="xs:string"/>
+      <xs:element name="BlockInsightVisibility" type="xs:string"/>
+      <xs:element name="Dispositions" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+      <xs:element name="SpecialServicesRequested" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="SmartPostShipment">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="SmartPostDetail" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+      <xs:element name="CustomerReferences" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="SmartPostShipmentPrintReturn">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="Shipper" type="xs:string"/>
+      <xs:element name="Recipient" type="xs:string"/>
+      <xs:element name="SpecialServicesRequested" type="xs:string"/>
+      <xs:element name="ReturnShipmentDetail" type="xs:string"/>
+      <xs:element name="SmartPostDetail" type="xs:string"/>
+      <xs:element name="InsuredValue" type="xs:string"/>
+      <xs:element name="CustomerReferences" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="USExpressFreight">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="Shipper" type="xs:string"/>
+      <xs:element name="Recipient" type="xs:string"/>
+      <xs:element name="Dimensions" type="xs:string"/>
+      <xs:element name="CustomerReferences" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>

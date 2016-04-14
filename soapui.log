@@ -1,0 +1,140 @@
+2016-03-15 17:25:16,344 WARN  [SoapUI] Missing folder [/home/fuguo/ServiceIntegrationAccelerator/ext] for external libraries
+2016-03-15 17:25:16,564 INFO  [DefaultSoapUICore] initialized soapui-settings from [/home/fuguo/soapui-settings.xml]
+2016-03-15 17:25:17,850 INFO  [SchemaUtils] Added default schema from file:/home/fuguo/ServiceIntegrationAccelerator/lib/soapui-5.1.1.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2016-03-15 17:25:17,879 INFO  [SchemaUtils] Added default schema from file:/home/fuguo/ServiceIntegrationAccelerator/lib/soapui-5.1.1.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2016-03-15 17:25:17,881 INFO  [SchemaUtils] Added default schema from file:/home/fuguo/ServiceIntegrationAccelerator/lib/soapui-5.1.1.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2016-03-15 17:25:17,884 INFO  [SchemaUtils] Added default schema from file:/home/fuguo/ServiceIntegrationAccelerator/lib/soapui-5.1.1.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2016-03-15 17:25:17,887 INFO  [SchemaUtils] Added default schema from file:/home/fuguo/ServiceIntegrationAccelerator/lib/soapui-5.1.1.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2016-03-15 17:25:17,888 INFO  [SchemaUtils] Added default schema from file:/home/fuguo/ServiceIntegrationAccelerator/lib/soapui-5.1.1.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2016-03-15 17:25:17,890 INFO  [SchemaUtils] Added default schema from file:/home/fuguo/ServiceIntegrationAccelerator/lib/soapui-5.1.1.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2016-03-15 17:25:17,893 INFO  [SchemaUtils] Added default schema from file:/home/fuguo/ServiceIntegrationAccelerator/lib/soapui-5.1.1.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2016-03-15 17:25:17,895 INFO  [SchemaUtils] Added default schema from file:/home/fuguo/ServiceIntegrationAccelerator/lib/soapui-5.1.1.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2016-03-15 17:25:17,899 INFO  [SchemaUtils] Added default schema from file:/home/fuguo/ServiceIntegrationAccelerator/lib/soapui-5.1.1.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2016-03-15 17:25:18,688 INFO  [SchemaUtils] Loading schema types from [file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/OpenShipService_v9.wsdl]
+2016-03-15 17:25:18,689 INFO  [SchemaUtils] Getting schema file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/OpenShipService_v9.wsdl
+2016-03-15 17:25:19,174 INFO  [WsdlImporter] Finding importer for {http://fedex.com/ws/openship/v9}OpenShipServiceSoapBinding
+2016-03-15 17:25:19,177 INFO  [WsdlImporter] Importing binding {http://fedex.com/ws/openship/v9}OpenShipServiceSoapBinding
+2016-03-15 17:25:19,196 INFO  [Soap11HttpBindingImporter] importing endpoint https://wsbeta.fedex.com:443/web-services/openship
+2016-03-15 17:25:19,224 INFO  [Soap11HttpBindingImporter] importing operation addPackagesToOpenShipment
+2016-03-15 17:25:19,235 INFO  [Soap11HttpBindingImporter] importing operation confirmConsolidation
+2016-03-15 17:25:19,236 INFO  [Soap11HttpBindingImporter] importing operation confirmOpenShipment
+2016-03-15 17:25:19,236 INFO  [Soap11HttpBindingImporter] importing operation createConsolidation
+2016-03-15 17:25:19,237 INFO  [Soap11HttpBindingImporter] importing operation createOpenShipment
+2016-03-15 17:25:19,237 INFO  [Soap11HttpBindingImporter] importing operation createPendingShipment
+2016-03-15 17:25:19,237 INFO  [Soap11HttpBindingImporter] importing operation deleteOpenConsolidation
+2016-03-15 17:25:19,238 INFO  [Soap11HttpBindingImporter] importing operation deleteOpenShipment
+2016-03-15 17:25:19,238 INFO  [Soap11HttpBindingImporter] importing operation deletePackagesFromOpenShipment
+2016-03-15 17:25:19,238 INFO  [Soap11HttpBindingImporter] importing operation deletePendingShipment
+2016-03-15 17:25:19,239 INFO  [Soap11HttpBindingImporter] importing operation getConfirmConsolidationResults
+2016-03-15 17:25:19,239 INFO  [Soap11HttpBindingImporter] importing operation getConfirmOpenShipmentResults
+2016-03-15 17:25:19,239 INFO  [Soap11HttpBindingImporter] importing operation getCreateOpenShipmentResults
+2016-03-15 17:25:19,240 INFO  [Soap11HttpBindingImporter] importing operation getModifyOpenShipmentResults
+2016-03-15 17:25:19,241 INFO  [Soap11HttpBindingImporter] importing operation modifyConsolidation
+2016-03-15 17:25:19,241 INFO  [Soap11HttpBindingImporter] importing operation modifyOpenShipment
+2016-03-15 17:25:19,255 INFO  [Soap11HttpBindingImporter] importing operation modifyPackageInOpenShipment
+2016-03-15 17:25:19,256 INFO  [Soap11HttpBindingImporter] importing operation retrieveConsolidatedCommodities
+2016-03-15 17:25:19,256 INFO  [Soap11HttpBindingImporter] importing operation retrieveConsolidation
+2016-03-15 17:25:19,257 INFO  [Soap11HttpBindingImporter] importing operation retrieveOpenShipment
+2016-03-15 17:25:19,257 INFO  [Soap11HttpBindingImporter] importing operation retrievePackageInOpenShipment
+2016-03-15 17:25:19,258 INFO  [Soap11HttpBindingImporter] importing operation validateOpenShipment
+2016-03-15 17:25:19,632 WARN  [AnalyticsManager] Error generating Analytics session ID - returning empty String
+java.lang.NullPointerException
+	at com.eviware.soapui.analytics.AnalyticsManager.makeUserId(AnalyticsManager.java:118)
+	at com.eviware.soapui.analytics.AnalyticsManager.<init>(AnalyticsManager.java:30)
+	at com.eviware.soapui.analytics.AnalyticsManager.getInstance(AnalyticsManager.java:35)
+	at com.eviware.soapui.analytics.Analytics.getAnalyticsManager(Analytics.java:16)
+	at com.eviware.soapui.analytics.Analytics.trackAction(Analytics.java:24)
+	at com.eviware.soapui.impl.WsdlInterfaceFactory.importWsdl(WsdlInterfaceFactory.java:106)
+	at com.eviware.soapui.impl.WsdlInterfaceFactory.importWsdl(WsdlInterfaceFactory.java:61)
+	at qut.edu.au.services.Service.getOperations(Service.java:887)
+	at qut.edu.au.analysis.StructuralInterfaceAnalysis.identifyBEandRelationForAllOperations(StructuralInterfaceAnalysis.java:27)
+	at qut.edu.au.analysis.ServiceInterfaceAnalysis.main(ServiceInterfaceAnalysis.java:38)
+2016-03-15 17:25:41,599 INFO  [SchemaUtils] Loading schema types from [file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/ShipService_v13.wsdl]
+2016-03-15 17:25:41,601 INFO  [SchemaUtils] Getting schema file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/ShipService_v13.wsdl
+2016-03-15 17:25:41,847 INFO  [WsdlImporter] Finding importer for {http://fedex.com/ws/ship/v13}ShipServiceSoapBinding
+2016-03-15 17:25:41,848 INFO  [WsdlImporter] Importing binding {http://fedex.com/ws/ship/v13}ShipServiceSoapBinding
+2016-03-15 17:25:41,849 INFO  [Soap11HttpBindingImporter] importing endpoint https://wsbeta.fedex.com:443/web-services/ship
+2016-03-15 17:25:41,852 INFO  [Soap11HttpBindingImporter] importing operation cancelPendingShipment
+2016-03-15 17:25:41,854 INFO  [Soap11HttpBindingImporter] importing operation createPendingShipment
+2016-03-15 17:25:41,857 INFO  [Soap11HttpBindingImporter] importing operation deleteShipment
+2016-03-15 17:25:41,858 INFO  [Soap11HttpBindingImporter] importing operation deleteTag
+2016-03-15 17:25:41,861 INFO  [Soap11HttpBindingImporter] importing operation processShipment
+2016-03-15 17:25:41,862 INFO  [Soap11HttpBindingImporter] importing operation processTag
+2016-03-15 17:25:41,864 INFO  [Soap11HttpBindingImporter] importing operation validateShipment
+2016-03-15 17:25:47,584 INFO  [SchemaUtils] Loading schema types from [file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/CloseService_v3.wsdl]
+2016-03-15 17:25:47,586 INFO  [SchemaUtils] Getting schema file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/CloseService_v3.wsdl
+2016-03-15 17:25:47,642 INFO  [WsdlImporter] Finding importer for {http://fedex.com/ws/close/v3}CloseServiceSoapBinding
+2016-03-15 17:25:47,644 INFO  [WsdlImporter] Importing binding {http://fedex.com/ws/close/v3}CloseServiceSoapBinding
+2016-03-15 17:25:47,645 INFO  [Soap11HttpBindingImporter] importing endpoint https://wsbeta.fedex.com:443/web-services/close
+2016-03-15 17:25:47,646 INFO  [Soap11HttpBindingImporter] importing operation closeWithDocuments
+2016-03-15 17:25:47,646 INFO  [Soap11HttpBindingImporter] importing operation groundClose
+2016-03-15 17:25:47,649 INFO  [Soap11HttpBindingImporter] importing operation groundCloseReportsReprint
+2016-03-15 17:25:47,650 INFO  [Soap11HttpBindingImporter] importing operation groundCloseWithDocuments
+2016-03-15 17:25:47,652 INFO  [Soap11HttpBindingImporter] importing operation reprintGroundCloseDocuments
+2016-03-15 17:25:47,653 INFO  [Soap11HttpBindingImporter] importing operation smartPostClose
+2016-03-15 17:25:48,206 INFO  [SchemaUtils] Loading schema types from [file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/ShipService_v15.wsdl]
+2016-03-15 17:25:48,206 INFO  [SchemaUtils] Getting schema file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/ShipService_v15.wsdl
+2016-03-15 17:25:48,346 INFO  [WsdlImporter] Finding importer for {http://fedex.com/ws/ship/v15}ShipServiceSoapBinding
+2016-03-15 17:25:48,346 INFO  [WsdlImporter] Importing binding {http://fedex.com/ws/ship/v15}ShipServiceSoapBinding
+2016-03-15 17:25:48,346 INFO  [Soap11HttpBindingImporter] importing endpoint https://wsbeta.fedex.com:443/web-services/ship
+2016-03-15 17:25:48,346 INFO  [Soap11HttpBindingImporter] importing operation deleteShipment
+2016-03-15 17:25:48,347 INFO  [Soap11HttpBindingImporter] importing operation deleteTag
+2016-03-15 17:25:48,347 INFO  [Soap11HttpBindingImporter] importing operation processShipment
+2016-03-15 17:25:48,347 INFO  [Soap11HttpBindingImporter] importing operation processTag
+2016-03-15 17:25:48,347 INFO  [Soap11HttpBindingImporter] importing operation validateShipment
+2016-03-15 17:25:53,034 INFO  [SchemaUtils] Loading schema types from [file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/PickupService_v9.wsdl]
+2016-03-15 17:25:53,035 INFO  [SchemaUtils] Getting schema file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/PickupService_v9.wsdl
+2016-03-15 17:25:53,097 INFO  [WsdlImporter] Finding importer for {http://fedex.com/ws/pickup/v9}PickupServiceSoapBinding
+2016-03-15 17:25:53,097 INFO  [WsdlImporter] Importing binding {http://fedex.com/ws/pickup/v9}PickupServiceSoapBinding
+2016-03-15 17:25:53,097 INFO  [Soap11HttpBindingImporter] importing endpoint https://wsbeta.fedex.com:443/web-services
+2016-03-15 17:25:53,097 INFO  [Soap11HttpBindingImporter] importing operation cancelPickup
+2016-03-15 17:25:53,097 INFO  [Soap11HttpBindingImporter] importing operation createPickup
+2016-03-15 17:25:53,098 INFO  [Soap11HttpBindingImporter] importing operation getPickupAvailability
+2016-03-15 17:25:53,715 INFO  [SchemaUtils] Loading schema types from [file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/AddressValidationService_v3.wsdl]
+2016-03-15 17:25:53,715 INFO  [SchemaUtils] Getting schema file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/AddressValidationService_v3.wsdl
+2016-03-15 17:25:53,748 INFO  [WsdlImporter] Finding importer for {http://fedex.com/ws/addressvalidation/v3}AddressValidationServiceSoapBinding
+2016-03-15 17:25:53,749 INFO  [WsdlImporter] Importing binding {http://fedex.com/ws/addressvalidation/v3}AddressValidationServiceSoapBinding
+2016-03-15 17:25:53,749 INFO  [Soap11HttpBindingImporter] importing endpoint https://wsbeta.fedex.com:443/web-services/addressvalidation
+2016-03-15 17:25:53,749 INFO  [Soap11HttpBindingImporter] importing operation addressValidation
+2016-03-15 17:25:53,950 INFO  [SchemaUtils] Loading schema types from [file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/OpenShipService_v7.wsdl]
+2016-03-15 17:25:53,950 INFO  [SchemaUtils] Getting schema file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/OpenShipService_v7.wsdl
+2016-03-15 17:25:54,103 INFO  [WsdlImporter] Finding importer for {http://fedex.com/ws/openship/v7}OpenShipServiceSoapBinding
+2016-03-15 17:25:54,103 INFO  [WsdlImporter] Importing binding {http://fedex.com/ws/openship/v7}OpenShipServiceSoapBinding
+2016-03-15 17:25:54,104 INFO  [Soap11HttpBindingImporter] importing endpoint https://wsbeta.fedex.com:443/web-services/openship
+2016-03-15 17:25:54,106 INFO  [Soap11HttpBindingImporter] importing operation addPackagesToOpenShipment
+2016-03-15 17:25:54,107 INFO  [Soap11HttpBindingImporter] importing operation confirmConsolidation
+2016-03-15 17:25:54,107 INFO  [Soap11HttpBindingImporter] importing operation confirmOpenShipment
+2016-03-15 17:25:54,107 INFO  [Soap11HttpBindingImporter] importing operation createConsolidation
+2016-03-15 17:25:54,107 INFO  [Soap11HttpBindingImporter] importing operation createOpenShipment
+2016-03-15 17:25:54,107 INFO  [Soap11HttpBindingImporter] importing operation createPendingShipment
+2016-03-15 17:25:54,111 INFO  [Soap11HttpBindingImporter] importing operation deleteOpenConsolidation
+2016-03-15 17:25:54,112 INFO  [Soap11HttpBindingImporter] importing operation deleteOpenShipment
+2016-03-15 17:25:54,112 INFO  [Soap11HttpBindingImporter] importing operation deletePackagesFromOpenShipment
+2016-03-15 17:25:54,115 INFO  [Soap11HttpBindingImporter] importing operation deletePendingShipment
+2016-03-15 17:25:54,117 INFO  [Soap11HttpBindingImporter] importing operation getConfirmConsolidationResults
+2016-03-15 17:25:54,125 INFO  [Soap11HttpBindingImporter] importing operation getConfirmOpenShipmentResults
+2016-03-15 17:25:54,127 INFO  [Soap11HttpBindingImporter] importing operation getCreateOpenShipmentResults
+2016-03-15 17:25:54,129 INFO  [Soap11HttpBindingImporter] importing operation getModifyOpenShipmentResults
+2016-03-15 17:25:54,131 INFO  [Soap11HttpBindingImporter] importing operation modifyConsolidation
+2016-03-15 17:25:54,135 INFO  [Soap11HttpBindingImporter] importing operation modifyOpenShipment
+2016-03-15 17:25:54,136 INFO  [Soap11HttpBindingImporter] importing operation modifyPackageInOpenShipment
+2016-03-15 17:25:54,140 INFO  [Soap11HttpBindingImporter] importing operation retrieveConsolidatedCommodities
+2016-03-15 17:25:54,142 INFO  [Soap11HttpBindingImporter] importing operation retrieveConsolidation
+2016-03-15 17:25:54,143 INFO  [Soap11HttpBindingImporter] importing operation retrieveOpenShipment
+2016-03-15 17:25:54,144 INFO  [Soap11HttpBindingImporter] importing operation retrievePackageInOpenShipment
+2016-03-15 17:25:54,146 INFO  [Soap11HttpBindingImporter] importing operation validateOpenShipment
+2016-03-15 17:26:10,767 INFO  [SchemaUtils] Loading schema types from [file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/TrackService_v9.wsdl]
+2016-03-15 17:26:10,767 INFO  [SchemaUtils] Getting schema file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/TrackService_v9.wsdl
+2016-03-15 17:26:10,840 INFO  [WsdlImporter] Finding importer for {http://fedex.com/ws/track/v9}TrackServiceSoapBinding
+2016-03-15 17:26:10,840 INFO  [WsdlImporter] Importing binding {http://fedex.com/ws/track/v9}TrackServiceSoapBinding
+2016-03-15 17:26:10,841 INFO  [Soap11HttpBindingImporter] importing endpoint https://wsbeta.fedex.com:443/web-services/track
+2016-03-15 17:26:10,841 INFO  [Soap11HttpBindingImporter] importing operation retrieveSignatureProofOfDeliveryLetter
+2016-03-15 17:26:10,841 INFO  [Soap11HttpBindingImporter] importing operation sendNotifications
+2016-03-15 17:26:10,841 INFO  [Soap11HttpBindingImporter] importing operation sendSignatureProofOfDeliveryFax
+2016-03-15 17:26:10,841 INFO  [Soap11HttpBindingImporter] importing operation track
+2016-03-15 17:26:11,280 INFO  [SchemaUtils] Loading schema types from [file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/ReturnTagService_v1.wsdl]
+2016-03-15 17:26:11,281 INFO  [SchemaUtils] Getting schema file:/home/fuguo/ServiceIntegrationAccelerator/TestData/ES/Fedex/ReturnTagService_v1.wsdl
+2016-03-15 17:26:11,322 INFO  [WsdlImporter] Finding importer for {http://fedex.com/ws/returntag/v1}ReturnTagServiceSoapBinding
+2016-03-15 17:26:11,322 INFO  [WsdlImporter] Importing binding {http://fedex.com/ws/returntag/v1}ReturnTagServiceSoapBinding
+2016-03-15 17:26:11,323 INFO  [Soap11HttpBindingImporter] importing endpoint https://gatewaybeta.fedex.com:443/web-services
+2016-03-15 17:26:11,323 INFO  [Soap11HttpBindingImporter] importing operation getExpressTagAvailability

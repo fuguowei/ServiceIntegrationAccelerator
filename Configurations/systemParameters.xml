@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ServiceIntegerationAccelerator>
+	<SystemVariables>
+		<Heights>8</Heights>
+		<MaxNumberOfParameters>20</MaxNumberOfParameters>
+		<TotalNumberofAcceptablePaths>20</TotalNumberofAcceptablePaths>
+		<ExperimentsValueDeviation>1.2</ExperimentsValueDeviation>
+		<NormalformTransitionKernelVarianceForGroup>0.1</NormalformTransitionKernelVarianceForGroup>
+		<NormalformTransitionKernelVarianceWithinGroup>0.00000001</NormalformTransitionKernelVarianceWithinGroup>
+		<DeviationFactor>0.175</DeviationFactor>
+		<UniformTransitionKernalVarianceForGroup>0.5</UniformTransitionKernalVarianceForGroup>
+		<UniformTransitionKernalVarianceWithinGroup>0.0001</UniformTransitionKernalVarianceWithinGroup>
+		<TotalnubmerOfAttempts>1000000</TotalnubmerOfAttempts>
+		<WeightMinToll>0.000001</WeightMinToll>
+		<MarkovBlanketThreshHold>0.7</MarkovBlanketThreshHold>
+		<GroupCountingFactor>500</GroupCountingFactor>
+		<InitialGroupProbabilityFactor>1.12109375</InitialGroupProbabilityFactor>
+		<InitialParameterProbabilityFactor>20</InitialParameterProbabilityFactor>
+		<GroupGap>5</GroupGap>
+		<Debug>FALSE</Debug>
+		<BruteForce>FALSE</BruteForce>
+		<SearchMethoGenerateExpereimentData>TRUE</SearchMethoGenerateExpereimentData>
+		<LogInterval>500000000</LogInterval>
+		<RealService>FALSE</RealService>
+	</SystemVariables>
+</ServiceIntegerationAccelerator>

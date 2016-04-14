@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?jaxfront version=2.81;time=2014-03-17 20:02:41.7;xsd=TrackRequestRequiredValues.xsd?>
+<tns:TrackRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fedex.com/ws/track/v8 file:/home/fuguo/Downloads/JAXFront Eclipse Example Project/examples/purchaseOrder/TrackRequestRequiredValues.xsd" xmlns:tns="http://fedex.com/ws/track/v8" xmlns="http://fedex.com/ws/track/v8">
+       <tns:WebAuthenticationDetail>
+              <tns:UserCredential>
+                     <tns:Key>XAxwdgjPc4kWoPMC</tns:Key>
+                     <tns:Password>1iCABDnm7g4aWMTb0x7Q2WqvX</tns:Password>
+              </tns:UserCredential>
+       </tns:WebAuthenticationDetail>
+       <tns:ClientDetail>
+              <tns:AccountNumber>510088000</tns:AccountNumber>
+              <tns:MeterNumber>118576342</tns:MeterNumber>
+       </tns:ClientDetail>
+       <tns:TransactionDetail>
+              <tns:CustomerTransactionId>*** Track Request v8 ***</tns:CustomerTransactionId>
+       </tns:TransactionDetail>
+       <tns:Version>
+              <tns:ServiceId>trck</tns:ServiceId>
+              <tns:Major>8</tns:Major>
+              <tns:Intermediate>0</tns:Intermediate>
+              <tns:Minor>0</tns:Minor>
+       </tns:Version>
+       <tns:SelectionDetails>
+              <tns:CarrierCode>FDXE</tns:CarrierCode>
+              <tns:PackageIdentifier>
+                     <tns:Type>TRACKING_NUMBER_OR_DOORTAG</tns:Type>
+                     <tns:Value>794813378033</tns:Value>
+              </tns:PackageIdentifier>
+       </tns:SelectionDetails>
+</tns:TrackRequest>

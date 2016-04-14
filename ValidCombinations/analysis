@@ -1,0 +1,311 @@
+
+
+GroundHomeDelivery Shipment -Appointment.xml
+
+0,1,2,3,7,10,11,12,13,15,16,20,29,30,36,36,37,38,39,41,44,51,54,60,60,61,62,63,65,67,111,112,121,122,128,128,129,130,131,133,136,279,281,555,556,557,941,947,1011,1021,1022,1023,1024,1025,1026,1157,1158,1159,1160,
+0,1,2,3,7,10,11,12,13,19,27,29,30,36,36,37,38,39,41,27,29,30,35,36,36,37,38,39,41,111,112,21,22,27,29,30,36,36,37,38,39,41,304,305,306,451,112,21,22,27,29,30,36,36,37,38,39,41,476,477,478,502,503,504,383,384,508,509,512,513,477,478,529,555,556,557,941,947,1011,383,384,385,386,387,388,1027,1028,136,1088,
+0,1,2,3,7,10,11,12,13,19,27,29,30,36,36,37,38,39,41,51,53,54,59,60,60,61,62,63,65,111,112,113,114,119,121,122,128,128,129,130,131,133,304,305,306,451,452,453,454,459,461,462,468,468,469,470,471,473,476,477,478,502,503,504,506,507,508,509,512,513,514,515,529,555,556,557,941,947,1011,1021,1022,1023,1024,1025,1026,1027,1028,1032,1088,
+
+
+0,1,2,3,7,10,11,12,13,15,16,20,29,30,36,36,37,38,39,41,44,27,30,36,36,37,38,39,41,43,111,112,29,30,36,36,37,38,39,41,136,279,281,555,556,557,941,947,1011,383,384,385,386,387,388,1157,1158,1159,1160,
+
+Shipment_knownPath1.xml
+0,1,2,3,7,10,11,12,13,19,27,29,30,36,36,37,38,39,41,51,53,54,59,60,60,61,62,63,65,111,112,113,114,119,121,122,128,128,129,130,131,133,304,305,306,451,112,113,114,119,121,122,128,128,129,130,131,133,476,477,478,502,503,504,506,507,508,509,512,513,514,515,529,555,556,557,941,947,1011,1021,1022,1023,1024,1025,1026,1027,1028,1032,1088,
+
+SmartPostShipment - PrintReturn.xml
+0,1,2,3,7,10,11,12,13,20,27,29,30,36,36,37,38,39,41,44,51,53,54,60,61,62,63,65,111,112,119,121,122,128,128,129,130,131,133,136,136,241,242,244,245,246,247,248,542,544,545,555,556,557,941,947,1011,1019,1020,1021,1022,1030,1031,
+
+GroundInternational MPS.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,51,53,54,60,61,62,63,65,67,111,112,133,451,112,133,476,477,478,502,503,504,506,507,508,509,512,513,514,515,555,556,557,941,947,1011,1021,1022,1023,1024,1025,1026,1030,1031,1030,1031,1030,1031,
+
+SmartPostShipment.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,51,53,54,60,61,62,63,65,67,111,112,133,542,543,544,555,556,557,941,947,1011,1013,1021,1022,1023,1024,1025,1026,1030,1031,1030,1031,1030,1031,
+
+Shipment_knownPath2.xml
+0,1,27,29,30,36,37,38,39,41,43,51,53,54,60,61,62,63,65,67,111,112,133,136,247,248,537,538,539,555,556,1011,1019,1020,1021,1022,1023,1024,1025,1026,1028,1030,1031,
+
+IntlReturnShipment.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,51,53,54,60,61,62,63,65,67,111,112,133,451,112,133,476,477,478,502,503,504,506,507,508,509,512,513,514,515,528,555,556,557,941,947,1011,1013,1021,1022,1023,1024,1025,1026,
+
+IntraMXExpSaverShipment.xml
+0,1,2,3,7,10,11,12,13,19,27,29,30,35,36,36,37,38,39,41,51,53,54,59,60,60,61,62,63,65,111,136,476,477,478,500,502,503,504,506,507,508,509,512,513,514,515,529,555,556,557,941,947,1011,1021,1022,1023,1024,1025,1026,1030,1031,
+
+GroundInternational.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,51,53,54,60,61,62,63,65,67,111,112,133,451,112,133,476,477,478,502,503,504,506,507,508,509,512,513,514,515,528,555,556,557,941,947,1011,1013,1019,1020,1021,1022,1023,1024,1025,1026,1030,1031,1030,1031,1030,1031,
+
+USExpressFreight.xml
+0,1,2,3,7,10,11,12,13,20,27,29,30,35,36,37,38,39,41,44,51,53,54,59,60,61,62,63,65,111,112,119,127,555,556,941,947,1011,1021,1022,1023,1024,1025,1026,1027,1028,1030,1031,
+
+PriorityAlertLTLFreightShipment .xml
+0,1,2,3,7,10,11,12,13,20,26,27,29,30,35,36,37,38,39,41,50,51,53,54,59,60,61,62,63,65,111,112,118,119,121,122,127,326,332,333,334,335,336,337,339,340,341,342,343,344,345,347,349,350,351,352,354,355,356,361,362,363,364,365,366,367,368,369,374,375,376,377,378,381,382,383,384,385,386,387,388,389,390,546,547,555,556,557,558,941,947,1011,1021,1022,1023,1024,1025,1026,1032,
+
+IntraIndiaCOD.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,42,51,53,54,60,61,62,63,65,66,67,111,112,133,136,137,138,142,168,170,171,177,178,179,180,182,183,185,451,112,133,476,477,478,496,497,498,502,503,504,506,507,508,509,512,513,514,515,555,556,557,941,947,1011,1013,1019,1020,1021,1022,1023,1024,1025,1026,1030,1031,
+
+IntraUAESOShipment.xml
+0,1,2,3,7,10,11,12,13,19,27,29,30,35,36,36,37,41,51,53,54,59,60,60,61,65,111,112,119,121,122,127,128,128,129,133,476,477,478,500,502,503,504,506,507,508,509,512,513,514,515,529,555,556,557,941,947,1011,1021,1022,1023,1024,1025,1026,1028,1030,1031,
+
+GroundHomeDeliveryShipment.xml
+0,1,2,3,7,10,11,12,13,15,16,20,29,30,36,36,37,38,39,41,44,51,54,60,60,61,62,63,65,67,111,112,121,122,128,128,129,130,131,133,136,279,281,555,556,557,941,947,1011,1021,1022,1023,1024,1025,1026,1157,1158,1159,1160,
+
+
+
+GroundHomeDelivery Shipment -Appointment.xml
+0,1,2,3,7,10,11,12,13,15,16,20,29,30,36,36,37,38,39,41,44,27,30,36,36,37,38,39,41,43,111,112,29,30,36,36,37,38,39,41,136,279,281,555,556,557,941,947,1011,383,384,385,386,387,388,1157,1158,1159,1160,
+
+Shipment_knownPath1.xml
+0,1,2,3,7,10,11,12,13,19,27,29,30,36,36,37,38,39,41,27,29,30,35,36,36,37,38,39,41,111,112,21,22,27,29,30,36,36,37,38,39,41,304,305,306,451,112,21,22,27,29,30,36,36,37,38,39,41,476,477,478,502,503,504,383,384,508,509,512,513,477,478,529,555,556,557,941,947,1011,383,384,385,386,387,388,1027,1028,136,1088,
+
+
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,19,] Parent: 41: [27,29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 41: [27,29,30,35,] Parent: 52: [36,36,37,38,39,41,] Parent: 139: [111,] Parent: 142: [112,] Parent: 35: [21,22,] Parent: 41: [27,29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 386: [304,305,306,] Parent: 567: [451,] Parent: 142: [112,] Parent: 35: [21,22,] Parent: 41: [27,29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 501: [476,] Parent: 599: [477,478,] Parent: 631: [502,503,504,] Parent: 482: [383,384,] Parent: 631: [508,509,] Parent: 645: [512,513,] Parent: 599: [477,478,] Parent: 666: [529,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 1351: [1027,1028,] Parent: 170: [136,] Parent: 1446: [1088,
+
+
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,19-PreferredCurrency,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Tins: 21-TinType,22-Number,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-ExpressFreightDetail: 304-PackingListEnclosed,305-ShippersLoadAndCount,306-BookingConfirmationNumber,Parent: 0-DutiesPayment: 451-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Tins: 21-TinType,22-Number,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-CustomsClearanceDetail: 476-DocumentContent,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-Commodities: 502-NumberOfPieces,503-Description,504-CountryOfManufacture,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Commodities: 508-Quantity,509-QuantityUnits,Parent: 0-UnitPrice: 512-Currency,513-Amount,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-ExportDetail: 529-ExportComplianceStatement,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-RequestedPackageLineItems: 1027-PhysicalPackaging,1028-ItemDescription,Parent: 0-SpecialServicesRequested: 136-SpecialServiceTypes,Parent: 0-DangerousGoodsDetail: 1088-Accessibility,
+
+
+SmartPostShipment - PrintReturn.xml
+0,1,2,3,7,10,11,12,13,20,27,29,30,36,36,37,38,39,41,44,27,29,30,36,37,38,39,41,111,112,27,29,30,36,36,37,38,39,41,136,136,241,242,244,5,6,247,248,542,544,545,555,556,557,941,947,1011,1019,1020,383,384,497,498,
+
+GroundInternational MPS.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,27,29,30,36,37,38,39,41,43,111,112,41,451,112,41,476,477,478,502,503,504,383,384,508,509,512,513,477,478,555,556,557,941,947,1011,383,384,385,386,387,388,497,498,497,498,497,498,
+
+SmartPostShipment.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,27,29,30,36,37,38,39,41,43,111,112,41,542,543,544,555,556,557,941,947,1011,1013,383,384,385,386,387,388,497,498,497,498,497,498,
+
+Shipment_knownPath2.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,43,27,29,30,36,37,38,39,41,43,111,112,41,136,247,248,537,538,539,555,556,941,947,1011,1019,1020,383,384,385,386,387,388,1028,497,498,
+
+IntlReturnShipment.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,27,29,30,36,37,38,39,41,43,111,112,41,451,112,41,476,477,478,502,503,504,383,384,508,509,512,513,477,478,528,555,556,557,941,947,1011,1013,383,384,385,386,387,388,
+
+IntraMXExpSaverShipment.xml
+0,1,2,3,7,10,11,12,13,19,27,29,30,35,36,36,37,38,39,41,27,29,30,35,36,36,37,38,39,41,111,136,476,477,478,500,502,503,504,383,384,508,509,512,513,477,478,529,555,556,557,941,947,1011,383,384,385,386,387,388,497,498,
+
+GroundInternational.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,27,29,30,36,37,38,39,41,43,111,112,41,451,112,41,476,477,478,502,503,504,383,384,508,509,512,513,477,478,528,555,556,557,941,947,1011,1013,1019,1020,383,384,385,386,387,388,497,498,497,498,497,498,
+
+USExpressFreight.xml
+0,1,2,3,7,10,11,12,13,20,27,29,30,35,36,37,38,39,41,44,27,29,30,35,36,37,38,39,41,111,112,27,35,555,556,941,947,1011,383,384,385,386,387,388,1027,1028,497,498,
+
+PriorityAlertLTLFreightShipment .xml
+0,1,2,3,7,10,11,12,13,20,26,27,29,30,35,36,37,38,39,41,26,27,29,30,35,36,37,38,39,41,111,112,26,27,29,30,35,326,26,27,28,29,30,31,33,34,35,36,37,38,39,41,43,350,351,352,354,355,356,361,362,363,364,365,366,367,368,369,374,375,376,377,378,381,382,383,384,385,386,387,388,389,390,546,547,555,556,557,558,941,947,1011,383,384,385,386,387,388,136,
+
+IntraIndiaCOD.xml
+0,1,2,3,7,10,11,12,13,27,29,30,36,37,38,39,41,42,27,29,30,36,37,38,39,41,42,43,111,112,41,136,137,138,142,27,29,30,36,37,38,39,41,42,185,451,112,41,476,477,478,496,497,498,502,503,504,383,384,508,509,512,513,477,478,555,556,557,941,947,1011,1013,1019,1020,383,384,385,386,387,388,497,498,
+
+IntraUAESOShipment.xml
+0,1,2,3,7,10,11,12,13,19,27,29,30,35,36,36,37,41,27,29,30,35,36,36,37,41,111,112,27,29,30,35,36,36,37,41,476,477,478,500,502,503,504,383,384,508,509,512,513,477,478,529,555,556,557,941,947,1011,383,384,385,386,387,388,1028,497,498,
+
+GroundHomeDeliveryShipment.xml
+0,1,2,3,7,10,11,12,13,15,16,20,29,30,36,36,37,38,39,41,44,27,30,36,36,37,38,39,41,43,111,112,29,30,36,36,37,38,39,41,136,279,281,555,556,557,941,947,1011,383,384,385,386,387,388,1157,1158,1159,1160,
+
+
+Shipment_knownPath1.xml
+1,2,3,4,8,11,12,13,14,20,28,30,31,37,37,38,39,40,42,52,54,55,60,61,61,62,63,64,66,112,113,114,115,120,122,123,129,129,130,131,132,134,305,306,307,452,453,454,455,460,462,463,469,469,470,471,472,474,477,478,479,503,504,505,507,508,509,510,513,514,515,516,530,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1028,1029,1033,1089,
+
+SmartPostShipment - PrintReturn.xml
+1,2,3,4,8,11,12,13,14,21,28,30,31,37,37,38,39,40,42,45,52,54,55,61,62,63,64,66,112,113,120,122,123,129,129,130,131,132,134,137,137,242,243,245,246,247,248,249,543,545,546,556,557,558,942,948,1012,1020,1021,1022,1023,1031,1032,
+
+GroundInternational MPS.xml
+1,2,3,4,8,11,12,13,14,28,30,31,37,38,39,40,42,52,54,55,61,62,63,64,66,68,112,113,134,452,453,474,477,478,479,503,504,505,507,508,509,510,513,514,515,516,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1031,1032,WRONG1031,1032,WRONG1031,1032,
+
+SmartPostShipment.xml
+1,2,3,4,8,11,12,13,14,28,30,31,37,38,39,40,42,52,54,55,61,62,63,64,66,68,112,113,134,543,544,545,556,557,558,942,948,1012,1014,1022,1023,1024,1025,1026,1027,1031,1032,WRONG1031,1032,WRONG1031,1032,
+
+Shipment_knownPath2.xml
+
+
+IntlReturnShipment.xml
+1,2,3,4,8,11,12,13,14,28,30,31,37,38,39,40,42,52,54,55,61,62,63,64,66,68,112,113,134,452,453,474,477,478,479,503,504,505,507,508,509,510,513,514,515,516,529,556,557,558,942,948,1012,1014,1022,1023,1024,1025,1026,1027,
+
+IntraMXExpSaverShipment.xml
+1,2,3,4,8,11,12,13,14,20,28,30,31,36,37,37,38,39,40,42,52,54,55,60,61,61,62,63,64,66,112,137,477,478,479,501,503,504,505,507,508,509,510,513,514,515,516,530,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1031,1032,
+
+GroundHomeDelivery ShipmentAppointment.xml
+1,2,3,4,8,11,12,13,14,16,17,21,30,31,37,37,38,39,40,42,45,52,55,61,61,62,63,64,66,68,112,113,122,123,129,129,130,131,132,134,137,280,282,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1158,1159,1160,1161,
+
+GroundInternational.xml
+1,2,3,4,8,11,12,13,14,28,30,31,37,38,39,40,42,52,54,55,61,62,63,64,66,68,112,113,134,452,453,474,477,478,479,503,504,505,507,508,509,510,513,514,515,516,529,556,557,558,942,948,1012,1014,1020,1021,1022,1023,1024,1025,1026,1027,1031,1032,WRONG1031,1032,WRONG1031,1032,
+
+USExpressFreight.xml
+1,2,3,4,8,11,12,13,14,21,28,30,31,36,37,38,39,40,42,45,52,54,55,60,61,62,63,64,66,112,113,120,128,556,557,942,948,1012,1022,1023,1024,1025,1026,1027,1028,1029,1031,1032,
+
+PriorityAlertLTLFreightShipment .xml
+1,2,3,4,8,11,12,13,14,21,27,28,30,31,36,37,38,39,40,42,51,52,54,55,60,61,62,63,64,66,112,113,119,120,122,123,128,327,333,334,335,336,337,338,340,341,342,343,344,345,346,348,350,351,352,353,355,356,357,362,363,364,365,366,367,368,369,370,375,376,377,378,379,382,383,384,385,386,387,388,389,390,391,547,548,556,557,558,559,942,948,1012,1022,1023,1024,1025,1026,1027,1033,
+
+IntraIndiaCOD.xml
+1,2,3,4,8,11,12,13,14,28,30,31,37,38,39,40,42,43,52,54,55,61,62,63,64,66,67,68,112,113,134,137,138,139,143,169,171,172,178,179,180,181,183,184,186,452,453,474,477,478,479,497,498,499,503,504,505,507,508,509,510,513,514,515,516,556,557,558,942,948,1012,1014,1020,1021,1022,1023,1024,1025,1026,1027,1031,1032,
+
+IntraUAESOShipment.xml
+1,2,3,4,8,11,12,13,14,20,28,30,31,36,37,37,38,42,52,54,55,60,61,61,62,66,112,113,120,122,123,128,129,129,130,134,477,478,479,501,503,504,505,507,508,509,510,513,514,515,516,530,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1029,1031,1032,
+
+GroundHomeDeliveryShipment.xml
+1,2,3,4,8,11,12,13,14,16,17,21,30,31,37,37,38,39,40,42,45,52,55,61,61,62,63,64,66,68,112,113,122,123,129,129,130,131,132,134,137,280,282,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1158,1159,1160,1161,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shipment_knownPath1.xml
+1,2,3,4,8,11,12,13,14,20,28,30,31,37,37,38,39,40,42,52,54,55,60,61,61,62,63,64,66,112,113,114,115,120,122,123,129,129,130,131,132,134,305,306,307,452,453,454,455,460,462,463,469,469,470,471,472,474,477,478,479,503,504,505,507,508,509,510,513,514,515,516,530,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1028,1029,1033,1089,
+
+SmartPostShipment - PrintReturn.xml
+1,2,3,4,8,11,12,13,14,21,28,30,31,37,37,38,39,40,42,45,52,54,55,61,62,63,64,66,112,113,120,122,123,129,129,130,131,132,134,137,137,242,243,245,246,247,248,249,543,545,546,556,557,558,942,948,1012,1020,1021,1022,1023,1031,1032,
+
+GroundInternational MPS.xml
+1,2,3,4,8,11,12,13,14,28,30,31,37,38,39,40,42,52,54,55,61,62,63,64,66,68,112,113,134,452,453,474,477,478,479,503,504,505,507,508,509,510,513,514,515,516,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1031,1032,WRONG1031,1032,WRONG1031,1032,
+
+SmartPostShipment.xml
+1,2,3,4,8,11,12,13,14,28,30,31,37,38,39,40,42,52,54,55,61,62,63,64,66,68,112,113,134,543,544,545,556,557,558,942,948,1012,1014,1022,1023,1024,1025,1026,1027,1031,1032,WRONG1031,1032,WRONG1031,1032,
+
+Shipment_knownPath2.xml
+
+
+IntlReturnShipment.xml
+1,2,3,4,8,11,12,13,14,28,30,31,37,38,39,40,42,52,54,55,61,62,63,64,66,68,112,113,134,452,453,474,477,478,479,503,504,505,507,508,509,510,513,514,515,516,529,556,557,558,942,948,1012,1014,1022,1023,1024,1025,1026,1027,
+
+IntraMXExpSaverShipment.xml
+1,2,3,4,8,11,12,13,14,20,28,30,31,36,37,37,38,39,40,42,52,54,55,60,61,61,62,63,64,66,112,137,477,478,479,501,503,504,505,507,508,509,510,513,514,515,516,530,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1031,1032,
+
+GroundHomeDelivery ShipmentAppointment.xml
+1,2,3,4,8,11,12,13,14,16,17,21,30,31,37,37,38,39,40,42,45,52,55,61,61,62,63,64,66,68,112,113,122,123,129,129,130,131,132,134,137,280,282,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1158,1159,1160,1161,
+
+GroundInternational.xml
+1,2,3,4,8,11,12,13,14,28,30,31,37,38,39,40,42,52,54,55,61,62,63,64,66,68,112,113,134,452,453,474,477,478,479,503,504,505,507,508,509,510,513,514,515,516,529,556,557,558,942,948,1012,1014,1020,1021,1022,1023,1024,1025,1026,1027,1031,1032,WRONG1031,1032,WRONG1031,1032,
+
+USExpressFreight.xml
+1,2,3,4,8,11,12,13,14,21,28,30,31,36,37,38,39,40,42,45,52,54,55,60,61,62,63,64,66,112,113,120,128,556,557,942,948,1012,1022,1023,1024,1025,1026,1027,1028,1029,1031,1032,
+
+PriorityAlertLTLFreightShipment .xml
+1,2,3,4,8,11,12,13,14,21,27,28,30,31,36,37,38,39,40,42,51,52,54,55,60,61,62,63,64,66,112,113,119,120,122,123,128,327,333,334,335,336,337,338,340,341,342,343,344,345,346,348,350,351,352,353,355,356,357,362,363,364,365,366,367,368,369,370,375,376,377,378,379,382,383,384,385,386,387,388,389,390,391,547,548,556,557,558,559,942,948,1012,1022,1023,1024,1025,1026,1027,1033,
+
+IntraIndiaCOD.xml
+1,2,3,4,8,11,12,13,14,28,30,31,37,38,39,40,42,43,52,54,55,61,62,63,64,66,67,68,112,113,134,137,138,139,143,169,171,172,178,179,180,181,183,184,186,452,453,474,477,478,479,497,498,499,503,504,505,507,508,509,510,513,514,515,516,556,557,558,942,948,1012,1014,1020,1021,1022,1023,1024,1025,1026,1027,1031,1032,
+
+IntraUAESOShipment.xml
+1,2,3,4,8,11,12,13,14,20,28,30,31,36,37,37,38,42,52,54,55,60,61,61,62,66,112,113,120,122,123,128,129,129,130,134,477,478,479,501,503,504,505,507,508,509,510,513,514,515,516,530,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1029,1031,1032,
+
+GroundHomeDeliveryShipment.xml
+1,2,3,4,8,11,12,13,14,16,17,21,30,31,37,37,38,39,40,42,45,52,55,61,61,62,63,64,66,68,112,113,122,123,129,129,130,131,132,134,137,280,282,556,557,558,942,948,1012,1022,1023,1024,1025,1026,1027,1158,1159,1160,1161,
+
+
+Pattern:
+1 business-entity based search
+	searching strategy:
+	(1) consider all business entities as one attribute and try
+	(2) Parent: 52: [36,36,37,38,39,41,], this pattern repeats multiple times and it does not follow the seqential order, so we should deal with this in our search method
+	for this particular case, Parent 52 - address, is for different combination in each case. For example, it can be the address for shipper and it also can be the address for the recipient
+	
+
+Test strategy
+	Objectives:
+	(1) to obtain the percentage of successful paths that the mechanism can derive given a successful path
+	(2) Measure the percentage of failure every 100 (or more) attempts 
+	(3) to evaluate the performance of the mechanism - i.e., how long does it take to search for
+	#(4) to evaluate the results of subtyping derivation - i.e., how many subtypes are derived
+
+	Experiments	
+	(1) have a mechanism to generate samples for two different scenarios - 
+		(a) an uniform distribution with 100 lists, with the height of known path as the variable
+		(b) a normal distribution with 100 lists, whith the height and the standard deviation as the variables.
+
+	(1) Have a list which consists of 15 successful paths
+	(2) The structure of the successful paths should be as close as possible to the real services
+	(3) come out a system to generate the list  (a normal distribution list, a uniform distribution)
+
+
+--- check why we treat them with the same index
+
+GroundHomeDelivery Shipment -Appointment.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 26: [15,16,] Parent: 33: [20,] Parent: 41: [29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 61: [44,] Parent: 41: [27,30,] Parent: 52: [36,36,37,38,39,41,43,] Parent: 139: [111,] Parent: 142: [112,] Parent: 41: [29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 170: [136,] Parent: 354: [279,281,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 1536: [1157,1158,1159,1160,
+
+Shipment_knownPath1.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,19,] Parent: 41: [27,29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 41: [27,29,30,35,] Parent: 52: [36,36,37,38,39,41,] Parent: 139: [111,] Parent: 142: [112,] Parent: 35: [21,22,] Parent: 41: [27,29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 386: [304,305,306,] Parent: 567: [451,] Parent: 142: [112,] Parent: 35: [21,22,] Parent: 41: [27,29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 501: [476,] Parent: 599: [477,478,] Parent: 631: [502,503,504,] Parent: 482: [383,384,] Parent: 631: [508,509,] Parent: 645: [512,513,] Parent: 599: [477,478,] Parent: 666: [529,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 1351: [1027,1028,] Parent: 170: [136,] Parent: 1446: [1088,
+
+SmartPostShipment - PrintReturn.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 33: [20,] Parent: 41: [27,29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 61: [44,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,] Parent: 139: [111,] Parent: 142: [112,] Parent: 41: [27,29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 170: [136,136,] Parent: 298: [241,242,244,] Parent: 10: [5,6,] Parent: 306: [247,] Parent: 308: [248,] Parent: 685: [542,544,545,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 1362: [1019,1020,] Parent: 482: [383,384,] Parent: 626: [497,498,
+
+GroundInternational MPS.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,43,] Parent: 139: [111,] Parent: 142: [112,] Parent: 52: [41,] Parent: 567: [451,] Parent: 142: [112,] Parent: 52: [41,] Parent: 501: [476,] Parent: 599: [477,478,] Parent: 631: [502,503,504,] Parent: 482: [383,384,] Parent: 631: [508,509,] Parent: 645: [512,513,] Parent: 599: [477,478,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 626: [497,498,497,498,497,498,
+
+SmartPostShipment.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,43,] Parent: 139: [111,] Parent: 142: [112,] Parent: 52: [41,] Parent: 685: [542,543,544,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,1013,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 626: [497,498,497,498,497,498,
+
+Shipment_knownPath2.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,43,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,43,] Parent: 139: [111,] Parent: 142: [112,] Parent: 52: [41,] Parent: 170: [136,] Parent: 306: [247,] Parent: 308: [248,] Parent: 679: [537,538,539,] Parent: 691: [555,556,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 1362: [1019,1020,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 1351: [1028,] Parent: 626: [497,498,
+
+IntlReturnShipment.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,43,] Parent: 139: [111,] Parent: 142: [112,] Parent: 52: [41,] Parent: 567: [451,] Parent: 142: [112,] Parent: 52: [41,] Parent: 501: [476,] Parent: 599: [477,478,] Parent: 631: [502,503,504,] Parent: 482: [383,384,] Parent: 631: [508,509,] Parent: 645: [512,513,] Parent: 599: [477,478,] Parent: 666: [528,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,1013,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,
+
+IntraMXExpSaverShipment.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,19,] Parent: 41: [27,29,30,35,] Parent: 52: [36,36,37,38,39,41,] Parent: 41: [27,29,30,35,] Parent: 52: [36,36,37,38,39,41,] Parent: 139: [111,] Parent: 170: [136,] Parent: 501: [476,] Parent: 599: [477,478,] Parent: 607: [500,] Parent: 631: [502,503,504,] Parent: 482: [383,384,] Parent: 631: [508,509,] Parent: 645: [512,513,] Parent: 599: [477,478,] Parent: 666: [529,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 626: [497,498,
+
+GroundInternational.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,43,] Parent: 139: [111,] Parent: 142: [112,] Parent: 52: [41,] Parent: 567: [451,] Parent: 142: [112,] Parent: 52: [41,] Parent: 501: [476,] Parent: 599: [477,478,] Parent: 631: [502,503,504,] Parent: 482: [383,384,] Parent: 631: [508,509,] Parent: 645: [512,513,] Parent: 599: [477,478,] Parent: 666: [528,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,1013,] Parent: 1362: [1019,1020,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 626: [497,498,497,498,497,498,
+
+USExpressFreight.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 33: [20,] Parent: 41: [27,29,30,35,] Parent: 52: [36,37,38,39,41,] Parent: 61: [44,] Parent: 41: [27,29,30,35,] Parent: 52: [36,37,38,39,41,] Parent: 139: [111,] Parent: 142: [112,] Parent: 41: [27,35,] Parent: 691: [555,556,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 1351: [1027,1028,] Parent: 626: [497,498,
+
+PriorityAlertLTLFreightShipment .xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 33: [20,] Parent: 41: [26,27,29,30,35,] Parent: 52: [36,37,38,39,41,] Parent: 41: [26,27,29,30,35,] Parent: 52: [36,37,38,39,41,] Parent: 139: [111,] Parent: 142: [112,] Parent: 41: [26,27,29,30,35,] Parent: 413: [326,] Parent: 41: [26,27,28,29,30,31,33,34,35,] Parent: 52: [36,37,38,39,41,43,] Parent: 441: [350,351,] Parent: 390: [352,] Parent: 446: [354,355,] Parent: 390: [356,361,362,] Parent: 458: [363,364,] Parent: 461: [365,366,367,368,] Parent: 390: [369,] Parent: 472: [374,375,376,377,378,381,382,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 490: [389,390,] Parent: 19: [546,] Parent: 692: [547,] Parent: 691: [555,556,557,558,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 170: [136,
+
+IntraIndiaCOD.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,42,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,42,43,] Parent: 139: [111,] Parent: 142: [112,] Parent: 52: [41,] Parent: 170: [136,] Parent: 173: [137,138,] Parent: 172: [142,] Parent: 41: [27,29,30,] Parent: 52: [36,37,38,39,41,42,] Parent: 172: [185,] Parent: 567: [451,] Parent: 142: [112,] Parent: 52: [41,] Parent: 501: [476,] Parent: 599: [477,478,] Parent: 607: [496,] Parent: 626: [497,498,] Parent: 631: [502,503,504,] Parent: 482: [383,384,] Parent: 631: [508,509,] Parent: 645: [512,513,] Parent: 599: [477,478,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,1013,] Parent: 1362: [1019,1020,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 626: [497,498,
+
+IntraUAESOShipment.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,19,] Parent: 41: [27,29,30,35,] Parent: 52: [36,36,37,41,] Parent: 41: [27,29,30,35,] Parent: 52: [36,36,37,41,] Parent: 139: [111,] Parent: 142: [112,] Parent: 41: [27,29,30,35,] Parent: 52: [36,36,37,41,] Parent: 501: [476,] Parent: 599: [477,478,] Parent: 607: [500,] Parent: 631: [502,503,504,] Parent: 482: [383,384,] Parent: 631: [508,509,] Parent: 645: [512,513,] Parent: 599: [477,478,] Parent: 666: [529,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 1351: [1028,] Parent: 626: [497,498,
+
+GroundHomeDeliveryShipment.xml
+] Parent: 3: [0,1,] Parent: 6: [2,3,] Parent: 13: [7,] Parent: 19: [10,11,12,13,] Parent: 26: [15,16,] Parent: 33: [20,] Parent: 41: [29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 61: [44,] Parent: 41: [27,30,] Parent: 52: [36,36,37,38,39,41,43,] Parent: 139: [111,] Parent: 142: [112,] Parent: 41: [29,30,] Parent: 52: [36,36,37,38,39,41,] Parent: 170: [136,] Parent: 354: [279,281,] Parent: 691: [555,556,557,] Parent: 19: [941,947,] Parent: 1351: [1011,] Parent: 482: [383,384,] Parent: 485: [385,386,387,388,] Parent: 1536: [1157,1158,1159,1160,
+
+
+GroundHomeDelivery Shipment -Appointment.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-TotalWeight: 15-Units,16-Value,Parent: 0-Shipper: 20-AccountNumber,Parent: 0-Contact: 29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Recipient: 44-AccountNumber,Parent: 0-Contact: 27-PersonName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,43-Residential,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Contact: 29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-SpecialServicesRequested: 136-SpecialServiceTypes,Parent: 0-HomeDeliveryPremiumDetail: 279-HomeDeliveryPremiumType,281-PhoneNumber,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-ContentRecords: 1157-PartNumber,1158-ItemNumber,1159-ReceivedQuantity,1160-Description,
+
+Shipment_knownPath1.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,19-PreferredCurrency,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Tins: 21-TinType,22-Number,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-ExpressFreightDetail: 304-PackingListEnclosed,305-ShippersLoadAndCount,306-BookingConfirmationNumber,Parent: 0-DutiesPayment: 451-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Tins: 21-TinType,22-Number,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-CustomsClearanceDetail: 476-DocumentContent,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-Commodities: 502-NumberOfPieces,503-Description,504-CountryOfManufacture,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Commodities: 508-Quantity,509-QuantityUnits,Parent: 0-UnitPrice: 512-Currency,513-Amount,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-ExportDetail: 529-ExportComplianceStatement,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-RequestedPackageLineItems: 1027-PhysicalPackaging,1028-ItemDescription,Parent: 0-SpecialServicesRequested: 136-SpecialServiceTypes,Parent: 0-DangerousGoodsDetail: 1088-Accessibility,
+
+SmartPostShipment - PrintReturn.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-Shipper: 20-AccountNumber,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Recipient: 44-AccountNumber,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-SpecialServicesRequested: 136-SpecialServiceTypes,136-SpecialServiceTypes,Parent: 0-Recipients: 241-EMailNotificationRecipientType,242-EMailAddress,244-Format,Parent: 0-Localization: 5-LanguageCode,6-LocaleCode,Parent: 0-ReturnShipmentDetail: 247-ReturnType,Parent: 0-Rma: 248-Reason,Parent: 0-SmartPostDetail: 542-Indicia,544-HubId,545-CustomerManifestId,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-InsuredValue: 1019-Currency,1020-Amount,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-CustomerReferences: 497-CustomerReferenceType,498-Value,
+
+GroundInternational MPS.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,43-Residential,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Address: 41-CountryCode,Parent: 0-DutiesPayment: 451-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Address: 41-CountryCode,Parent: 0-CustomsClearanceDetail: 476-DocumentContent,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-Commodities: 502-NumberOfPieces,503-Description,504-CountryOfManufacture,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Commodities: 508-Quantity,509-QuantityUnits,Parent: 0-UnitPrice: 512-Currency,513-Amount,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-CustomerReferences: 497-CustomerReferenceType,498-Value,497-CustomerReferenceType,498-Value,497-CustomerReferenceType,498-Value,
+
+SmartPostShipment.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,43-Residential,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Address: 41-CountryCode,Parent: 0-SmartPostDetail: 542-Indicia,543-AncillaryEndorsement,544-HubId,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,1013-GroupPackageCount,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-CustomerReferences: 497-CustomerReferenceType,498-Value,497-CustomerReferenceType,498-Value,497-CustomerReferenceType,498-Value,
+
+Shipment_knownPath2.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,43-Residential,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,43-Residential,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Address: 41-CountryCode,Parent: 0-SpecialServicesRequested: 136-SpecialServiceTypes,Parent: 0-ReturnShipmentDetail: 247-ReturnType,Parent: 0-Rma: 248-Reason,Parent: 0-PickupDetail: 537-ReadyDateTime,538-LatestPickupDateTime,539-CourierInstructions,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-InsuredValue: 1019-Currency,1020-Amount,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-RequestedPackageLineItems: 1028-ItemDescription,Parent: 0-CustomerReferences: 497-CustomerReferenceType,498-Value,
+
+IntlReturnShipment.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,43-Residential,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Address: 41-CountryCode,Parent: 0-DutiesPayment: 451-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Address: 41-CountryCode,Parent: 0-CustomsClearanceDetail: 476-DocumentContent,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-Commodities: 502-NumberOfPieces,503-Description,504-CountryOfManufacture,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Commodities: 508-Quantity,509-QuantityUnits,Parent: 0-UnitPrice: 512-Currency,513-Amount,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-ExportDetail: 528-B13AFilingOption,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,1013-GroupPackageCount,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,
+
+IntraMXExpSaverShipment.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,19-PreferredCurrency,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-SpecialServicesRequested: 136-SpecialServiceTypes,Parent: 0-CustomsClearanceDetail: 476-DocumentContent,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-CommercialInvoice: 500-TermsOfSale,Parent: 0-Commodities: 502-NumberOfPieces,503-Description,504-CountryOfManufacture,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Commodities: 508-Quantity,509-QuantityUnits,Parent: 0-UnitPrice: 512-Currency,513-Amount,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-ExportDetail: 529-ExportComplianceStatement,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-CustomerReferences: 497-CustomerReferenceType,498-Value,
+
+GroundInternational.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,43-Residential,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Address: 41-CountryCode,Parent: 0-DutiesPayment: 451-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Address: 41-CountryCode,Parent: 0-CustomsClearanceDetail: 476-DocumentContent,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-Commodities: 502-NumberOfPieces,503-Description,504-CountryOfManufacture,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Commodities: 508-Quantity,509-QuantityUnits,Parent: 0-UnitPrice: 512-Currency,513-Amount,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-ExportDetail: 528-B13AFilingOption,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,1013-GroupPackageCount,Parent: 0-InsuredValue: 1019-Currency,1020-Amount,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-CustomerReferences: 497-CustomerReferenceType,498-Value,497-CustomerReferenceType,498-Value,497-CustomerReferenceType,498-Value,
+
+USExpressFreight.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-Shipper: 20-AccountNumber,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Recipient: 44-AccountNumber,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Contact: 27-PersonName,35-EMailAddress,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-RequestedPackageLineItems: 1027-PhysicalPackaging,1028-ItemDescription,Parent: 0-CustomerReferences: 497-CustomerReferenceType,498-Value,
+
+PriorityAlertLTLFreightShipment .xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-Shipper: 20-AccountNumber,Parent: 0-Contact: 26-ContactId,27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Contact: 26-ContactId,27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Contact: 26-ContactId,27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-AlternateBilling: 326-AccountNumber,Parent: 0-Contact: 26-ContactId,27-PersonName,28-Title,29-CompanyName,30-PhoneNumber,31-PhoneExtension,33-PagerNumber,34-FaxNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,43-Residential,Parent: 0-PrintedReferences: 350-Type,351-Value,Parent: 0-FreightShipmentDetail: 352-Role,Parent: 0-DeclaredValuePerUnit: 354-Currency,355-Amount,Parent: 0-FreightShipmentDetail: 356-DeclaredValueUnits,361-TotalHandlingUnits,362-ClientDiscountPercent,Parent: 0-PalletWeight: 363-Units,364-Value,Parent: 0-ShipmentDimensions: 365-Length,366-Width,367-Height,368-Units,Parent: 0-FreightShipmentDetail: 369-Comment,Parent: 0-LineItems: 374-FreightClass,375-ClassProvidedByCustomer,376-HandlingUnits,377-Packaging,378-Pieces,381-PurchaseOrderNumber,382-Description,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-Volume: 389-Units,390-Value,Parent: 0-RequestedShipment: 546-BlockInsightVisibility,Parent: 0-Dispositions: 547-DispositionType,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,558-LabelPrintingOrientation,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-SpecialServicesRequested: 136-SpecialServiceTypes,
+
+IntraIndiaCOD.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,42-CountryName,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,42-CountryName,43-Residential,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Address: 41-CountryCode,Parent: 0-SpecialServicesRequested: 136-SpecialServiceTypes,Parent: 0-CodCollectionAmount: 137-Currency,138-Amount,Parent: 0-CodDetail: 142-CollectionType,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,42-CountryName,Parent: 0-CodDetail: 185-RemitToName,Parent: 0-DutiesPayment: 451-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Address: 41-CountryCode,Parent: 0-CustomsClearanceDetail: 476-DocumentContent,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-CommercialInvoice: 496-Purpose,Parent: 0-CustomerReferences: 497-CustomerReferenceType,498-Value,Parent: 0-Commodities: 502-NumberOfPieces,503-Description,504-CountryOfManufacture,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Commodities: 508-Quantity,509-QuantityUnits,Parent: 0-UnitPrice: 512-Currency,513-Amount,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,1013-GroupPackageCount,Parent: 0-InsuredValue: 1019-Currency,1020-Amount,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-CustomerReferences: 497-CustomerReferenceType,498-Value,
+
+IntraUAESOShipment.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,19-PreferredCurrency,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,41-CountryCode,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,41-CountryCode,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Contact: 27-PersonName,29-CompanyName,30-PhoneNumber,35-EMailAddress,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,41-CountryCode,Parent: 0-CustomsClearanceDetail: 476-DocumentContent,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-CommercialInvoice: 500-TermsOfSale,Parent: 0-Commodities: 502-NumberOfPieces,503-Description,504-CountryOfManufacture,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Commodities: 508-Quantity,509-QuantityUnits,Parent: 0-UnitPrice: 512-Currency,513-Amount,Parent: 0-CustomsValue: 477-Currency,478-Amount,Parent: 0-ExportDetail: 529-ExportComplianceStatement,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-RequestedPackageLineItems: 1028-ItemDescription,Parent: 0-CustomerReferences: 497-CustomerReferenceType,498-Value,
+
+GroundHomeDeliveryShipment.xml
+Parent: 0-UserCredential: 0-Key,1-Password,Parent: 0-ClientDetail: 2-AccountNumber,3-MeterNumber,Parent: 0-TransactionDetail: 7-CustomerTransactionId,Parent: 0-RequestedShipment: 10-ShipTimestamp,11-DropoffType,12-ServiceType,13-PackagingType,Parent: 0-TotalWeight: 15-Units,16-Value,Parent: 0-Shipper: 20-AccountNumber,Parent: 0-Contact: 29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-Recipient: 44-AccountNumber,Parent: 0-Contact: 27-PersonName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,43-Residential,Parent: 0-ShippingChargesPayment: 111-PaymentType,Parent: 0-ResponsibleParty: 112-AccountNumber,Parent: 0-Contact: 29-CompanyName,30-PhoneNumber,Parent: 0-Address: 36-StreetLines,36-StreetLines,37-City,38-StateOrProvinceCode,39-PostalCode,41-CountryCode,Parent: 0-SpecialServicesRequested: 136-SpecialServiceTypes,Parent: 0-HomeDeliveryPremiumDetail: 279-HomeDeliveryPremiumType,281-PhoneNumber,Parent: 0-LabelSpecification: 555-LabelFormatType,556-ImageType,557-LabelStockType,Parent: 0-RequestedShipment: 941-RateRequestTypes,947-PackageCount,Parent: 0-RequestedPackageLineItems: 1011-SequenceNumber,Parent: 0-Weight: 383-Units,384-Value,Parent: 0-Dimensions: 385-Length,386-Width,387-Height,388-Units,Parent: 0-ContentRecords: 1157-PartNumber,1158-ItemNumber,1159-ReceivedQuantity,1160-Description,

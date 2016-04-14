@@ -1,0 +1,7 @@
+cancelPendingShipment
+createPendingShipment
+deleteShipment
+deleteTag
+processShipment
+processTag
+validateShipment

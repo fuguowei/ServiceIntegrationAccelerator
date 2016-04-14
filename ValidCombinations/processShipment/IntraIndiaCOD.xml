@@ -1,0 +1,152 @@
+<ProcessShipmentRequest>
+    <RequestedShipment>
+        <ShipTimestamp>2013-07-16T05:47:54+00:00</ShipTimestamp>
+        <DropoffType>REGULAR_PICKUP</DropoffType>
+        <ServiceType>STANDARD_OVERNIGHT</ServiceType>
+        <PackagingType>YOUR_PACKAGING</PackagingType>
+        <Shipper>
+            <Contact>
+                <PersonName>Sender Name</PersonName>
+                <CompanyName>Sender Company Name</CompanyName>
+                <PhoneNumber>1234567890</PhoneNumber>
+            </Contact>
+            <Address>
+                <StreetLines>1 SENDER STREET</StreetLines>
+                <City>PUNE</City>
+                <StateOrProvinceCode>MH</StateOrProvinceCode>
+                <PostalCode>411011</PostalCode>
+                <CountryCode>IN</CountryCode>
+                <CountryName>INDIA</CountryName>
+            </Address>
+        </Shipper>
+        <Recipient>
+            <Contact>
+                <PersonName>Recipient Name</PersonName>
+                <CompanyName>Recipient Company Name</CompanyName>
+                <PhoneNumber>1234567890</PhoneNumber>
+            </Contact>
+            <Address>
+                <StreetLines>1 RECIPIENT STREET</StreetLines>
+                <City>NEWDELHI</City>
+                <StateOrProvinceCode>DL</StateOrProvinceCode>
+                <PostalCode>110010</PostalCode>
+                <CountryCode>IN</CountryCode>
+                <CountryName>INDIA</CountryName>
+                <Residential>false</Residential>
+            </Address>
+        </Recipient>
+        <ShippingChargesPayment>
+            <PaymentType>SENDER</PaymentType>
+            <Payor>
+                <ResponsibleParty>
+                    <AccountNumber>"Input Your Information"</AccountNumber>
+                    <Contact />
+                    <Address>
+                        <CountryCode>IN</CountryCode>
+                    </Address>
+                </ResponsibleParty>
+            </Payor>
+        </ShippingChargesPayment>
+        <SpecialServicesRequested>
+            <SpecialServiceTypes>COD</SpecialServiceTypes>
+            <CodDetail>
+                <CodCollectionAmount>
+                    <Currency>INR</Currency>
+                    <Amount>100</Amount>
+                </CodCollectionAmount>
+                <CollectionType>GUARANTEED_FUNDS</CollectionType>
+                <FinancialInstitutionContactAndAddress>
+                    <Contact>
+                        <PersonName>Financial Contact</PersonName>
+                        <CompanyName>Financial Company</CompanyName>
+                        <PhoneNumber>8888888888</PhoneNumber>
+                    </Contact>
+                    <Address>
+                        <StreetLines>1 FINANCIAL STREET</StreetLines>
+                        <City>NEWDELHI</City>
+                        <StateOrProvinceCode>DL</StateOrProvinceCode>
+                        <PostalCode>110010</PostalCode>
+                        <CountryCode>IN</CountryCode>
+                        <CountryName>INDIA</CountryName>
+                    </Address>
+                </FinancialInstitutionContactAndAddress>
+                <RemitToName>Remitter</RemitToName>
+            </CodDetail>
+        </SpecialServicesRequested>
+        <CustomsClearanceDetail>
+            <DutiesPayment>
+                <PaymentType>SENDER</PaymentType>
+                <Payor>
+                    <ResponsibleParty>
+                        <AccountNumber>"Input Your Information"</AccountNumber>
+                        <Contact />
+                        <Address>
+                            <CountryCode>IN</CountryCode>
+                        </Address>
+                    </ResponsibleParty>
+                </Payor>
+            </DutiesPayment>
+            <DocumentContent>NON_DOCUMENTS</DocumentContent>
+            <CustomsValue>
+                <Currency>INR</Currency>
+                <Amount>100</Amount>
+            </CustomsValue>
+            <CommercialInvoice>
+                <Purpose>SOLD</Purpose>
+                <CustomerReferences>
+                    <CustomerReferenceType>CUSTOMER_REFERENCE</CustomerReferenceType>
+                    <Value>1234</Value>
+                </CustomerReferences>
+            </CommercialInvoice>
+            <Commodities>
+                <NumberOfPieces>1</NumberOfPieces>
+                <Description>Books</Description>
+                <CountryOfManufacture>IN</CountryOfManufacture>
+                <Weight>
+                    <Units>LB</Units>
+                    <Value>1</Value>
+                </Weight>
+                <Quantity>4</Quantity>
+                <QuantityUnits>EA</QuantityUnits>
+                <UnitPrice>
+                    <Currency>INR</Currency>
+                    <Amount>100</Amount>
+                </UnitPrice>
+                <CustomsValue>
+                    <Currency>INR</Currency>
+                    <Amount>400</Amount>
+                </CustomsValue>
+            </Commodities>
+        </CustomsClearanceDetail>
+        <LabelSpecification>
+            <LabelFormatType>COMMON2D</LabelFormatType>
+            <ImageType>PDF</ImageType>
+            <LabelStockType>PAPER_7X4.75</LabelStockType>
+        </LabelSpecification>
+        <RateRequestTypes>ACCOUNT</RateRequestTypes>
+        <PackageCount>1</PackageCount>
+        <RequestedPackageLineItems>
+            <SequenceNumber>1</SequenceNumber>
+            <GroupPackageCount>1</GroupPackageCount>
+            <InsuredValue>
+                <Currency>INR</Currency>
+                <Amount>80</Amount>
+            </InsuredValue>
+            <Weight>
+                <Units>LB</Units>
+                <Value>20</Value>
+            </Weight>
+            <Dimensions>
+                <Length>20</Length>
+                <Width>10</Width>
+                <Height>10</Height>
+                <Units>IN</Units>
+            </Dimensions>
+            <CustomerReferences>
+                <CustomerReferenceType>CUSTOMER_REFERENCE</CustomerReferenceType>
+                <Value>GR4567892</Value>
+            </CustomerReferences>
+        </RequestedPackageLineItems>
+    </RequestedShipment>
+</ProcessShipmentRequest>
+

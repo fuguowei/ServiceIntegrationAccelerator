@@ -1,0 +1,127 @@
+<ProcessShipmentRequest xmlns="http://fedex.com/ws/ship/v13">
+ <WebAuthenticationDetail>
+    <UserCredential>
+       <Key>"Input Your Information"</Key>
+       <Password>"Input Your Information"</Password>
+    </UserCredential>
+ </WebAuthenticationDetail>
+ <ClientDetail>
+    <AccountNumber>"Input Your Information"</AccountNumber>
+    <MeterNumber>"Input Your Information"</MeterNumber>
+ </ClientDetail>
+ <TransactionDetail>
+    <CustomerTransactionId>SmartPost Shipment - Print Return</CustomerTransactionId>
+ </TransactionDetail>
+ <Version>
+    <ServiceId>ship</ServiceId>
+    <Major>13</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+ </Version>
+ <RequestedShipment>
+    <ShipTimestamp>2013-08-16T09:30:47-05:00</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>SMART_POST</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <Shipper>
+       <AccountNumber>"Input Your Information"</AccountNumber>
+       <Contact>
+          <PersonName>Sender Contact</PersonName>
+          <CompanyName>WSVC</CompanyName>
+          <PhoneNumber>1234567890</PhoneNumber>
+       </Contact>
+       <Address>
+          <StreetLines>SMART POST FIVE DIGIT ACCT: 10110</StreetLines>
+          <StreetLines>SMART POST FIVE DIGIT ACCT: 10110</StreetLines>
+          <City>SMART POST FIVE DIGIT ACCT: 10110</City>
+          <StateOrProvinceCode>SMART POST FIVE DIGIT ACCT: 10110</StateOrProvinceCode>
+          <PostalCode>10110</PostalCode>
+          <CountryCode>US</CountryCode>
+       </Address>
+    </Shipper>
+    <Recipient>
+       <AccountNumber>"Input Your Information"</AccountNumber>
+       <Contact>
+          <PersonName>PARCEL RTN SVC</PersonName>
+          <CompanyName>SMARTPOST / RETURNS</CompanyName>
+          <PhoneNumber>1234567890</PhoneNumber>
+       </Contact>
+       <Address>
+          <StreetLines>Recipient Address Line1</StreetLines>
+          <City>Austin</City>
+          <StateOrProvinceCode>AS</StateOrProvinceCode>
+          <PostalCode>56950</PostalCode>
+          <CountryCode>AS</CountryCode>
+       </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+       <PaymentType>SENDER</PaymentType>
+       <Payor>
+          <ResponsibleParty>
+             <AccountNumber>"Input Your Information"</AccountNumber>
+             <Contact>
+                <PersonName>Sneha</PersonName>
+                <CompanyName>Syntel</CompanyName>
+                <PhoneNumber>8149871606</PhoneNumber>
+             </Contact>
+             <Address>
+                <StreetLines>SMART POST FIVE DIGIT ACCT: 10110</StreetLines>
+                <StreetLines>SMART POST FIVE DIGIT ACCT: 10110</StreetLines>
+                <City>SMART POST FIVE DIGIT ACCT: 10110</City>
+                <StateOrProvinceCode>SMART POST FIVE DIGIT ACCT: 10110</StateOrProvinceCode>
+                <PostalCode>10110</PostalCode>
+                <CountryCode>NL</CountryCode>
+             </Address>
+          </ResponsibleParty>
+       </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+       <SpecialServiceTypes>EMAIL_NOTIFICATION</SpecialServiceTypes>
+       <SpecialServiceTypes>RETURN_SHIPMENT</SpecialServiceTypes>
+       <EMailNotificationDetail>
+          <Recipients>
+             <EMailNotificationRecipientType>SHIPPER</EMailNotificationRecipientType>
+             <EMailAddress>sneha_joshi@syntelinc.com</EMailAddress>
+             <Format>HTML</Format>
+             <Localization>
+                <LanguageCode>es</LanguageCode>
+                <LocaleCode>ES</LocaleCode>
+             </Localization>
+          </Recipients>
+       </EMailNotificationDetail>
+       <ReturnShipmentDetail>
+          <ReturnType>PRINT_RETURN_LABEL</ReturnType>
+          <Rma>
+             <Reason>TC131 WSVC 85x11 Png</Reason>
+          </Rma>
+       </ReturnShipmentDetail>
+    </SpecialServicesRequested>
+    <SmartPostDetail>
+       <Indicia>PARCEL_RETURN</Indicia>
+       <HubId>5531</HubId>
+       <CustomerManifestId>MANIFSETID</CustomerManifestId>
+    </SmartPostDetail>
+    <LabelSpecification>
+       <LabelFormatType>COMMON2D</LabelFormatType>
+       <ImageType>PNG</ImageType>
+       <LabelStockType>PAPER_7X4.75</LabelStockType>
+    </LabelSpecification>
+    <RateRequestTypes>LIST</RateRequestTypes>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+       <SequenceNumber>1</SequenceNumber>
+       <InsuredValue>
+          <Currency>USD</Currency>
+          <Amount>0.00</Amount>
+       </InsuredValue>
+       <Weight>
+          <Units>LB</Units>
+          <Value>1.2</Value>
+       </Weight>
+       <CustomerReferences>
+          <CustomerReferenceType>RMA_ASSOCIATION</CustomerReferenceType>
+          <Value>TC131 WSVC 85x11 Png</Value>
+       </CustomerReferences>
+    </RequestedPackageLineItems>
+ </RequestedShipment>
+</ProcessShipmentRequest>

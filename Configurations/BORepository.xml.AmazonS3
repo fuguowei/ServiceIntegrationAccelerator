@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<service>
+	<OpenShip>
+		<CreateOpenShipmentRequest>OpenshipOrder</CreateOpenShipmentRequest>
+		<RequestedShipment>Shipment</RequestedShipment>
+		<Shipper>Shipper</Shipper>
+		<AddPackagesToOpenShipmentRequest>Package</AddPackagesToOpenShipmentRequest>
+		<AdditionalLabelsDetail>Label</AdditionalLabelsDetail>
+		<!-- <TaxpayerIdentification>Taxpayer<TaxpayerIdentification> -->
+		<Tin>Taxpayer</Tin>
+		<Contact>Contact</Contact>
+		<Address>Address</Address>
+		<Recipient>Recipient</Recipient>
+		<Origin>Origin</Origin>
+	</OpenShip>
+</service>

@@ -1,0 +1,77 @@
+<ProcessShipmentRequest>
+ <RequestedShipment>
+    <ShipTimestamp>2013-08-16T09:30:47-05:00</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>FEDEX_2_DAY_FREIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <Shipper>
+       <AccountNumber>"Input Your Information"</AccountNumber>
+       <Contact>
+          <PersonName>Abhay</PersonName>
+          <CompanyName>Syntel</CompanyName>
+          <PhoneNumber>9822280721</PhoneNumber>
+          <EMailAddress>abhay_palaskar@syntelinc.com</EMailAddress>
+       </Contact>
+       <Address>
+          <StreetLines>Test Sender Address Line1</StreetLines>
+          <City>MEMPHIS</City>
+          <StateOrProvinceCode>TN</StateOrProvinceCode>
+          <PostalCode>38110</PostalCode>
+          <CountryCode>US</CountryCode>
+       </Address>
+    </Shipper>
+    <Recipient>
+       <AccountNumber>"Input Your Information"</AccountNumber>
+       <Contact>
+          <PersonName>Abhay_shipper</PersonName>
+          <CompanyName>Syntel</CompanyName>
+          <PhoneNumber>9822280721</PhoneNumber>
+          <EMailAddress>abhay_palaskar@syntelinc.com</EMailAddress>
+       </Contact>
+       <Address>
+          <StreetLines>Recipient Address Line1</StreetLines>
+          <City>Texas</City>
+          <StateOrProvinceCode>TX</StateOrProvinceCode>
+          <PostalCode>73301</PostalCode>
+          <CountryCode>US</CountryCode>
+       </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+       <PaymentType>SENDER</PaymentType>
+       <Payor>
+          <ResponsibleParty>
+             <AccountNumber>"Input Your Information"</AccountNumber>
+             <Contact>
+                <PersonName>Abhay_Recipient</PersonName>
+                <EMailAddress>abhay_palaskar@syntelinc.com</EMailAddress>
+             </Contact>
+          </ResponsibleParty>
+       </Payor>
+    </ShippingChargesPayment>
+    <LabelSpecification>
+       <LabelFormatType>COMMON2D</LabelFormatType>
+       <ImageType>PNG</ImageType>
+    </LabelSpecification>
+    <RateRequestTypes>ACCOUNT</RateRequestTypes>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+       <SequenceNumber>1</SequenceNumber>
+       <Weight>
+          <Units>LB</Units>
+          <Value>151.0</Value>
+       </Weight>
+       <Dimensions>
+          <Length>12</Length>
+          <Width>12</Width>
+          <Height>12</Height>
+          <Units>IN</Units>
+       </Dimensions>
+       <PhysicalPackaging>BAG</PhysicalPackaging>
+       <ItemDescription>Book</ItemDescription>
+       <CustomerReferences>
+          <CustomerReferenceType>CUSTOMER_REFERENCE</CustomerReferenceType>
+          <Value>NAFTA_COO</Value>
+       </CustomerReferences>
+    </RequestedPackageLineItems>
+ </RequestedShipment>
+</ProcessShipmentRequest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<entity>
+	<Track>
+		<Key>PackageIdentifier</Key>
+	</Track>
+	<OpenshipOrder>
+		<Key>Index</Key>
+	</OpenshipOrder>
+	<PackageLineItem>
+		<Key>TrackingId</Key>
+	</PackageLineItem>
+</entity>

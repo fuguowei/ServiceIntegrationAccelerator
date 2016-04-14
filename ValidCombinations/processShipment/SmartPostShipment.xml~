@@ -1,0 +1,106 @@
+<ProcessShipmentRequest>
+    <WebAuthenticationDetail>
+        <UserCredential>
+            <Key>"Input Your Information"</Key>
+            <Password>"Input Your Information"</Password>
+        </UserCredential>
+    </WebAuthenticationDetail>
+    <ClientDetail>
+        <AccountNumber>"Input Your Information"</AccountNumber>
+        <MeterNumber>"Input Your Information"</MeterNumber>
+    </ClientDetail>
+    <TransactionDetail>
+        <CustomerTransactionId>*** Ground Domestic Shipping Request v13 ***</CustomerTransactionId>
+    </TransactionDetail>
+    <Version>
+        <ServiceId>ship</ServiceId>
+        <Major>13</Major>
+        <Intermediate>0</Intermediate>
+        <Minor>0</Minor>
+    </Version>
+    <RequestedShipment>
+        <ShipTimestamp>2013-06-10T06:28:50+00:00</ShipTimestamp>
+        <DropoffType>REGULAR_PICKUP</DropoffType>
+        <ServiceType>SMART_POST</ServiceType>
+        <PackagingType>YOUR_PACKAGING</PackagingType>
+        <Shipper>
+            <Contact>
+                <PersonName>Sender Name</PersonName>
+                <CompanyName>Sender Company Name</CompanyName>
+                <PhoneNumber>1234567890</PhoneNumber>
+            </Contact>
+            <Address>
+                <StreetLines>Address Line 1</StreetLines>
+                <City>Austin</City>
+                <StateOrProvinceCode>TX</StateOrProvinceCode>
+                <PostalCode>73301</PostalCode>
+                <CountryCode>US</CountryCode>
+            </Address>
+        </Shipper>
+        <Recipient>
+            <Contact>
+                <PersonName>Recipient Name</PersonName>
+                <CompanyName>Recipient Company Name</CompanyName>
+                <PhoneNumber>1234567890</PhoneNumber>
+            </Contact>
+            <Address>
+                <StreetLines>Address Line 1</StreetLines>
+                <City>Herndon</City>
+                <StateOrProvinceCode>VA</StateOrProvinceCode>
+                <PostalCode>20171</PostalCode>
+                <CountryCode>US</CountryCode>
+                <Residential>true</Residential>
+            </Address>
+        </Recipient>
+        <ShippingChargesPayment>
+            <PaymentType>SENDER</PaymentType>
+            <Payor>
+                <ResponsibleParty>
+                    <AccountNumber>"Input Your Information"</AccountNumber>
+                    <Contact />
+                    <Address>
+                        <CountryCode>US</CountryCode>
+                    </Address>
+                </ResponsibleParty>
+            </Payor>
+        </ShippingChargesPayment>
+        <SmartPostDetail>
+            <Indicia>PARCEL_SELECT</Indicia>
+            <AncillaryEndorsement>CARRIER_LEAVE_IF_NO_RESPONSE</AncillaryEndorsement>
+            <HubId>5531</HubId>
+        </SmartPostDetail>
+        <LabelSpecification>
+            <LabelFormatType>COMMON2D</LabelFormatType>
+            <ImageType>PDF</ImageType>
+            <LabelStockType>PAPER_7X4.75</LabelStockType>
+        </LabelSpecification>
+        <RateRequestTypes>ACCOUNT</RateRequestTypes>
+        <PackageCount>1</PackageCount>
+        <RequestedPackageLineItems>
+            <SequenceNumber>1</SequenceNumber>
+            <GroupPackageCount>1</GroupPackageCount>
+            <Weight>
+                <Units>LB</Units>
+                <Value>5</Value>
+            </Weight>
+            <Dimensions>
+                <Length>6</Length>
+                <Width>4</Width>
+                <Height>1</Height>
+                <Units>IN</Units>
+            </Dimensions>
+            <CustomerReferences>
+                <CustomerReferenceType>CUSTOMER_REFERENCE</CustomerReferenceType>
+                <Value>GR4567892</Value>
+            </CustomerReferences>
+            <CustomerReferences>
+                <CustomerReferenceType>INVOICE_NUMBER</CustomerReferenceType>
+                <Value>INV4567892</Value>
+            </CustomerReferences>
+            <CustomerReferences>
+                <CustomerReferenceType>P_O_NUMBER</CustomerReferenceType>
+                <Value>PO4567892</Value>
+            </CustomerReferences>
+        </RequestedPackageLineItems>
+    </RequestedShipment>
+</ProcessShipmentRequest>

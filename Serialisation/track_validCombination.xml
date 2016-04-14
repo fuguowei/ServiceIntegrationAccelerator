@@ -1,0 +1,694 @@
+<qut.edu.au.analysis.ValidCombination>
+  <combinations>
+    <list>
+      <qut.edu.au.Services.Parameter>
+        <name>WebAuthenticationDetail</name>
+        <complex>true</complex>
+        <parentParameter>
+          <name>TrackRequest</name>
+          <complex>true</complex>
+          <parentParameter>
+            <name>TrackRequest</name>
+            <complex>false</complex>
+            <parameterUniqueIDinTree>0</parameterUniqueIDinTree>
+            <compulsory>false</compulsory>
+            <root serialization="custom">
+              <javax.swing.tree.DefaultMutableTreeNode>
+                <default>
+                  <allowsChildren>true</allowsChildren>
+                  <children>
+                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                      <javax.swing.tree.DefaultMutableTreeNode>
+                        <default>
+                          <allowsChildren>true</allowsChildren>
+                          <children>
+                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                              <javax.swing.tree.DefaultMutableTreeNode>
+                                <default>
+                                  <allowsChildren>true</allowsChildren>
+                                  <children>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <children>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                          </children>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                  </children>
+                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                </default>
+                                <object-array/>
+                              </javax.swing.tree.DefaultMutableTreeNode>
+                            </javax.swing.tree.DefaultMutableTreeNode>
+                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                              <javax.swing.tree.DefaultMutableTreeNode>
+                                <default>
+                                  <allowsChildren>true</allowsChildren>
+                                  <children>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <children>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                          </children>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                  </children>
+                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                </default>
+                                <object-array/>
+                              </javax.swing.tree.DefaultMutableTreeNode>
+                            </javax.swing.tree.DefaultMutableTreeNode>
+                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                              <javax.swing.tree.DefaultMutableTreeNode>
+                                <default>
+                                  <allowsChildren>true</allowsChildren>
+                                  <children>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <children>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                          </children>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                  </children>
+                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                </default>
+                                <object-array/>
+                              </javax.swing.tree.DefaultMutableTreeNode>
+                            </javax.swing.tree.DefaultMutableTreeNode>
+                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                              <javax.swing.tree.DefaultMutableTreeNode>
+                                <default>
+                                  <allowsChildren>true</allowsChildren>
+                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                </default>
+                                <object-array/>
+                              </javax.swing.tree.DefaultMutableTreeNode>
+                            </javax.swing.tree.DefaultMutableTreeNode>
+                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                              <javax.swing.tree.DefaultMutableTreeNode>
+                                <default>
+                                  <allowsChildren>true</allowsChildren>
+                                  <children>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <children>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                          </children>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <children>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                          </children>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <children>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                              <javax.swing.tree.DefaultMutableTreeNode>
+                                                <default>
+                                                  <allowsChildren>true</allowsChildren>
+                                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                                </default>
+                                                <object-array/>
+                                              </javax.swing.tree.DefaultMutableTreeNode>
+                                            </javax.swing.tree.DefaultMutableTreeNode>
+                                          </children>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                    <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                                      <javax.swing.tree.DefaultMutableTreeNode>
+                                        <default>
+                                          <allowsChildren>true</allowsChildren>
+                                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                        </default>
+                                        <object-array/>
+                                      </javax.swing.tree.DefaultMutableTreeNode>
+                                    </javax.swing.tree.DefaultMutableTreeNode>
+                                  </children>
+                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                </default>
+                                <object-array/>
+                              </javax.swing.tree.DefaultMutableTreeNode>
+                            </javax.swing.tree.DefaultMutableTreeNode>
+                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                              <javax.swing.tree.DefaultMutableTreeNode>
+                                <default>
+                                  <allowsChildren>true</allowsChildren>
+                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                </default>
+                                <object-array/>
+                              </javax.swing.tree.DefaultMutableTreeNode>
+                            </javax.swing.tree.DefaultMutableTreeNode>
+                            <javax.swing.tree.DefaultMutableTreeNode serialization="custom">
+                              <javax.swing.tree.DefaultMutableTreeNode>
+                                <default>
+                                  <allowsChildren>true</allowsChildren>
+                                  <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                                </default>
+                                <object-array/>
+                              </javax.swing.tree.DefaultMutableTreeNode>
+                            </javax.swing.tree.DefaultMutableTreeNode>
+                          </children>
+                          <parent class="javax.swing.tree.DefaultMutableTreeNode" reference="../../../../../../.."/>
+                        </default>
+                        <object-array/>
+                      </javax.swing.tree.DefaultMutableTreeNode>
+                    </javax.swing.tree.DefaultMutableTreeNode>
+                  </children>
+                </default>
+                <object-array/>
+              </javax.swing.tree.DefaultMutableTreeNode>
+            </root>
+          </parentParameter>
+          <parameterUniqueIDinTree>1</parameterUniqueIDinTree>
+          <compulsory>false</compulsory>
+        </parentParameter>
+        <parameterUniqueIDinTree>2</parameterUniqueIDinTree>
+        <compulsory>true</compulsory>
+        <type>WebAuthenticationDetail</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>UserCredential</name>
+        <complex>true</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter"/>
+        <parameterUniqueIDinTree>3</parameterUniqueIDinTree>
+        <compulsory>true</compulsory>
+        <type>WebAuthenticationCredential</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>Key</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[2]"/>
+        <parameterUniqueIDinTree>4</parameterUniqueIDinTree>
+        <compulsory>true</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>Password</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[2]"/>
+        <parameterUniqueIDinTree>5</parameterUniqueIDinTree>
+        <compulsory>true</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>ClientDetail</name>
+        <complex>true</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter/parentParameter"/>
+        <parameterUniqueIDinTree>6</parameterUniqueIDinTree>
+        <compulsory>true</compulsory>
+        <type>ClientDetail</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>AccountNumber</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[5]"/>
+        <parameterUniqueIDinTree>7</parameterUniqueIDinTree>
+        <compulsory>true</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>MeterNumber</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[5]"/>
+        <parameterUniqueIDinTree>8</parameterUniqueIDinTree>
+        <compulsory>true</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>Version</name>
+        <complex>true</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter/parentParameter"/>
+        <parameterUniqueIDinTree>18</parameterUniqueIDinTree>
+        <compulsory>true</compulsory>
+        <type>VersionId</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter reference="../qut.edu.au.Services.Parameter/parentParameter"/>
+      <qut.edu.au.Services.Parameter>
+        <name>ProcessingOptions</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter/parentParameter"/>
+        <parameterUniqueIDinTree>44</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>TrackRequestProcessingOptionType</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>Destination</name>
+        <complex>true</complex>
+        <parentParameter>
+          <name>SelectionDetails</name>
+          <complex>true</complex>
+          <parentParameter reference="../../../qut.edu.au.Services.Parameter/parentParameter"/>
+          <parameterUniqueIDinTree>19</parameterUniqueIDinTree>
+          <compulsory>false</compulsory>
+          <type>TrackSelectionDetail</type>
+        </parentParameter>
+        <parameterUniqueIDinTree>30</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>Address</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter reference="../qut.edu.au.Services.Parameter[11]/parentParameter"/>
+      <qut.edu.au.Services.Parameter>
+        <name>CountryName</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]"/>
+        <parameterUniqueIDinTree>37</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>ShipDateRangeEnd</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]/parentParameter"/>
+        <parameterUniqueIDinTree>27</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>date</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>OperatingCompany</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]/parentParameter"/>
+        <parameterUniqueIDinTree>21</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>OperatingCompanyType</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>PagingDetail</name>
+        <complex>true</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]/parentParameter"/>
+        <parameterUniqueIDinTree>39</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>PagingDetail</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>NumberOfResultsPerPage</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[16]"/>
+        <parameterUniqueIDinTree>41</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>nonNegativeInteger</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>UrbanizationCode</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]"/>
+        <parameterUniqueIDinTree>35</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>PackageIdentifier</name>
+        <complex>true</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]/parentParameter"/>
+        <parameterUniqueIDinTree>22</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>TrackPackageIdentifier</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>Value</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[19]"/>
+        <parameterUniqueIDinTree>24</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>PostalCode</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]"/>
+        <parameterUniqueIDinTree>34</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>Localization</name>
+        <complex>true</complex>
+        <parentParameter>
+          <name>TransactionDetail</name>
+          <complex>true</complex>
+          <parentParameter reference="../../../qut.edu.au.Services.Parameter/parentParameter"/>
+          <parameterUniqueIDinTree>13</parameterUniqueIDinTree>
+          <compulsory>false</compulsory>
+          <type>TransactionDetail</type>
+        </parentParameter>
+        <parameterUniqueIDinTree>15</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>Localization</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter reference="../qut.edu.au.Services.Parameter[22]/parentParameter"/>
+      <qut.edu.au.Services.Parameter>
+        <name>LanguageCode</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[22]"/>
+        <parameterUniqueIDinTree>16</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>StateOrProvinceCode</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]"/>
+        <parameterUniqueIDinTree>33</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>TransactionTimeOutValueInMilliseconds</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter/parentParameter"/>
+        <parameterUniqueIDinTree>43</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>nonNegativeInteger</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>CarrierCode</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]/parentParameter"/>
+        <parameterUniqueIDinTree>20</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>CarrierCodeType</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>ShipDateRangeBegin</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]/parentParameter"/>
+        <parameterUniqueIDinTree>26</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>date</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>PagingToken</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[16]"/>
+        <parameterUniqueIDinTree>40</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>CustomerTransactionId</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[22]/parentParameter"/>
+        <parameterUniqueIDinTree>14</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>string</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>CustomerSpecifiedTimeOutValueInMilliseconds</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]/parentParameter"/>
+        <parameterUniqueIDinTree>42</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>nonNegativeInteger</type>
+      </qut.edu.au.Services.Parameter>
+      <qut.edu.au.Services.Parameter>
+        <name>Residential</name>
+        <complex>false</complex>
+        <parentParameter reference="../../qut.edu.au.Services.Parameter[11]"/>
+        <parameterUniqueIDinTree>38</parameterUniqueIDinTree>
+        <compulsory>false</compulsory>
+        <type>boolean</type>
+      </qut.edu.au.Services.Parameter>
+    </list>
+  </combinations>
+</qut.edu.au.analysis.ValidCombination>

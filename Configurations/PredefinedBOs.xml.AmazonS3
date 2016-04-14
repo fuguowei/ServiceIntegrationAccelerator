@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<service>
+	<OpenShip>
+		<CreateOpenShipmentRequest>OpenshipOrder</CreateOpenShipmentRequest>
+		<RequestedShipment>Shipment</RequestedShipment>
+		<AddPackagesToOpenShipmentRequest>OpenshipOrder</AddPackagesToOpenShipmentRequest>
+		<ModifyOpenShipmentRequest>OpenshipOrder</ModifyOpenShipmentRequest>
+		<RequestedPackageLineItems>RequestedPackageLineItem</RequestedPackageLineItems>
+	</OpenShip>
+	<AmazonS3SoapBinding>
+		<CopyObject>Object</CopyObject>
+		<GetObject>Object</GetObject>
+		<PutObject>Object</PutObject>
+		<DeleteObject>Object</DeleteObject>
+		<CreateBucket>Bucket</CreateBucket>
+		<DeleteBucket>Bucket</DeleteBucket>
+		<GetBucketLoggingStatus>BucketLoggingStatus</GetBucketLoggingStatus>
+		<GetObjectAccessControlPolicy>ObjectAccessControlPolicy</GetObjectAccessControlPolicy>
+		<GetObjectExtended>ObjectExtended</GetObjectExtended>
+		<ListBucket>Bucket</ListBucket>
+		<ListAllMyBuckets>MyBuckets</ListAllMyBuckets>
+		<PutObjectInline>ObjectInline</PutObjectInline>
+		<SetBucketAccessControlPolicy>BucketAccessControlPolicy</SetBucketAccessControlPolicy>
+		<SetBucketLoggingStatus>BucketLoggingStatus</SetBucketLoggingStatus>
+		<SetObjectAccessControlPolicy>ObjectAccessControlPolicy</SetObjectAccessControlPolicy>
+	</AmazonS3SoapBinding>
+</service>

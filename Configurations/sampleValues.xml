@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<service>
+	<Track>
+		<Key>XAxwdgjPc4kWoPMC</Key>
+		<Password>1iCABDnm7g4aWMTb0x7Q2WqvX</Password>
+		<AccountNumber>510088000</AccountNumber>
+		<MeterNumber>118576342</MeterNumber>
+		<LanguageCode>EN</LanguageCode>
+		<LocaleCode>us</LocaleCode>
+		<ServiceId>trck</ServiceId>
+		<Major>8</Major>
+		<Intermediate>0</Intermediate>
+		<Minor>0</Minor>
+		<ShipDateRangeBegin>2014-01-01</ShipDateRangeBegin>
+		<ShipDateRangeEnd>2014-01-04</ShipDateRangeEnd>
+	</Track>
+	<OpenShip>
+		<Key>XAxwdgjPc4kWoPMC</Key>
+		<Password>1iCABDnm7g4aWMTb0x7Q2WqvX</Password>
+		<AccountNumber>510088000</AccountNumber>
+		<MeterNumber>118576342</MeterNumber>
+		<LanguageCode>EN</LanguageCode>
+		<LocaleCode>us</LocaleCode>
+		<ShipDateRangeBegin>2013-12-21+10:00</ShipDateRangeBegin>
+		<ShipDateRangeEnd>2017-05-15</ShipDateRangeEnd>
+                <StreetLines>Address Line 1</StreetLines>
+                <City>Austin</City>
+                <StateOrProvinceCode>TX</StateOrProvinceCode>
+                <PostalCode>73301</PostalCode>
+                <CountryCode>US</CountryCode>
+	</OpenShip>
+	<Generic>
+		<Key>XAxwdgjPc4kWoPMC</Key>
+		<Password>1iCABDnm7g4aWMTb0x7Q2WqvX</Password>
+		<AccountNumber>510088000</AccountNumber>
+		<MeterNumber>118576342</MeterNumber>
+		<LanguageCode>EN</LanguageCode>
+		<LocaleCode>us</LocaleCode>
+		<ShipDateRangeBegin>2013-12-21+10:00</ShipDateRangeBegin>
+		<ShipDateRangeEnd>2017-05-15</ShipDateRangeEnd>
+                <StreetLines>Address Line 1</StreetLines>
+                <City>Austin</City>
+                <StateOrProvinceCode>TX</StateOrProvinceCode>
+                <PostalCode>73301</PostalCode>
+                <CountryCode>US</CountryCode>
+	</Generic>
+</service>

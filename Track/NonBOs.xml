@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<company>
+	<track id="1001">
+		<WebAuthenticationDetail>WebAuthenticationDetail</WebAuthenticationDetail>
+		<ClientDetail>ClientDetail</ClientDetail>
+		<TransactionDetail>TransactionDetail</TransactionDetail>
+		<Version>Version</Version>
+		<AsynchronousProcessingOptions>AsynchronousProcessingOptions</AsynchronousProcessingOptions>
+		<ConsolidationKey>ConsolidationKey</ConsolidationKey>
+	</track>
+</company>

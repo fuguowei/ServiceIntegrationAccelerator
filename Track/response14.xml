@@ -1,0 +1,14 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header/>
+   <SOAP-ENV:Body>
+      <SOAP-ENV:Fault>
+         <faultcode>SOAP-ENV:Server</faultcode>
+         <faultstring xml:lang="en">Fault</faultstring>
+         <detail>
+            <cause>UnrecoverableClientError</cause>
+            <code>SchemaError</code>
+            <desc>validation failure for TrackRequest Error:cvc-enumeration-valid: Value '' is not facet-valid with respect to enumeration</desc>
+         </detail>
+      </SOAP-ENV:Fault>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

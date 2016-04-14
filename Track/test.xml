@@ -1,0 +1,53 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:v9="http://fedex.com/ws/track/v9">
+   <soapenv:Body>
+      <v9:TrackRequest>
+         <v9:WebAuthenticationDetail>
+            <v9:UserCredential>
+               <v9:Key>XAxwdgjPc4kWoPMC</v9:Key>
+               <v9:Password>1iCABDnm7g4aWMTb0x7Q2WqvX</v9:Password>
+            </v9:UserCredential>
+         </v9:WebAuthenticationDetail>
+         <v9:ClientDetail>
+            <v9:AccountNumber>510088000</v9:AccountNumber>
+            <v9:MeterNumber>118576342</v9:MeterNumber>
+            <!--Optional:-->
+            <!--Optional:-->
+            <!--Optional:-->
+         </v9:ClientDetail>
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <v9:Version>
+            <v9:ServiceId>trck</v9:ServiceId>
+            <v9:Major>9</v9:Major>
+            <v9:Intermediate>1</v9:Intermediate>
+            <v9:Minor>0</v9:Minor>
+         </v9:Version>
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Zero or more repetitions:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Optional:-->
+         <!--Zero or more repetitions:-->
+         <!--Optional:-->
+         <!--Zero or more repetitions:-->
+      </v9:TrackRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
